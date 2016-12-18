@@ -1363,8 +1363,8 @@ buffering: 缓冲&lt;/p&gt;
 &lt;h2&gt;参考&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://codingpy.com/article/the-little-printf-chapter01/"&gt;编程派：这个网站上只翻译到了第五章&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Mon, 29 Feb 2016 18:01:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-02-29:the-real-programer.html</guid><category>程序员</category><category>翻译</category></item><item><title>用pelican在Github pages上搭建博客</title><link>http://blog.xueweihan.com/pelican-build-bolg.html</link><description>&lt;h1&gt;pelican&lt;/h1&gt;
-&lt;p&gt;Pelican Static Site Generator, Powered by Python：Pelican是python语言写的静态网站生成器。因为我一直打算用github pages做一个博客，现在已经学会用Hexo在github pages上做博客了。但是我一想：我一个pythoner，干嘛不用python写的静态网站生成器。我想应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！&lt;/p&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Mon, 29 Feb 2016 18:01:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-02-29:the-real-programer.html</guid><category>程序员</category><category>翻译</category></item><item><title>用pelican在GitHub pages上搭建博客</title><link>http://blog.xueweihan.com/pelican-build-bolg.html</link><description>&lt;h1&gt;pelican&lt;/h1&gt;
+&lt;p&gt;Pelican Static Site Generator, Powered by Python：Pelican是python语言写的静态网站生成器。因为我一直打算用GitHub pages做一个博客，现在已经学会用Hexo在GitHub pages上做博客了。但是我一想：我一个pythoner，干嘛不用python写的静态网站生成器。我想应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;开始&lt;/h2&gt;
 &lt;p&gt;1.首先用virtualenv创建一个env&lt;/p&gt;
@@ -1390,7 +1390,7 @@ pip install markdown
 &amp;gt; Who will be the author of this web site? xueweihan
 &amp;gt; What will be the default language of this web site? [en] zh
 &amp;gt; Do you want to specify a URL prefix? e.g., http://example.com   (Y/n)
-&amp;gt; What is your URL prefix? (see above example; no trailing slash) xueweihan.com
+&amp;gt; What is your URL prefix? (see above example; no trailing slash) blog.xueweihan.com
 &amp;gt; Do you want to enable article pagination? (Y/n)
 &amp;gt; How many articles per page do you want? [10]
 &amp;gt; What is your time zone? [Europe/Paris] Asia/Shanghai
@@ -1511,7 +1511,7 @@ github: publish
 &lt;h2&gt;定制属于自己的blog&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;下面的内容算是高级篇了，需要把上面的步骤都完成。想要进一步完美自己的博客的小伙伴&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.独立域名
-首先要购买域名，我的实在阿里云上买的，买完之后就需要修改你的域名指向：访问xueweihan.com域名，跳转到你的.github.io。根据你购买域名时候的提示，就可以设置完成了。之后在output目录下，创建CNAME文件。内容就是你购买的域名。因为github pages只允许CNAME中的域名映射。&lt;/p&gt;
+首先要购买域名，我的实在阿里云上买的，买完之后就需要修改你的域名指向：访问blog.xueweihan.com域名，跳转到你的.github.io。根据你购买域名时候的提示，就可以设置完成了。之后在output目录下，创建CNAME文件。内容就是你购买的域名。因为github pages只允许CNAME中的域名映射。&lt;/p&gt;
 &lt;p&gt;2.定制样式结构
 一步步的来，首先要找到你喜欢的主题&lt;a href="https://github.com/getpelican/pelican-themes"&gt;pelican主题&lt;/a&gt;，下载的时候我推荐&lt;code&gt;Download ZIP&lt;/code&gt;会快很多。下载好你的主题，我们就需要在blog目录下，找到&lt;code&gt;pelicanconf.py&lt;/code&gt;文件，它是在生成静态网站时候的配置文件，定制几乎所有的东西都需要通过这个。增添内容如下：&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;THEME = &amp;#39;你的主题所在目录&amp;#39;
@@ -1590,7 +1590,7 @@ SITEMAP = {
 &lt;p&gt;7.关于我
 这个就像相当于一个自我介绍的页面，所以就需要在&lt;code&gt;content&lt;/code&gt;目录下创建一个&lt;code&gt;pages&lt;/code&gt;目录，然后把你要展示的内容放到&lt;code&gt;pages&lt;/code&gt;目录下就可以了。&lt;/p&gt;
 &lt;h2&gt;最终效果&lt;/h2&gt;
-&lt;p&gt;我的博客：&lt;a href="http://xueweihan.com"&gt;xueweihan.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我的博客：&lt;a href="http://blog.xueweihan.com"&gt;blog.xueweihan.com&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;问题&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -1612,7 +1612,7 @@ SITEMAP = {
 &lt;li&gt;&lt;a href="http://docs.getpelican.com/en/3.5.0/quickstart.html"&gt;pelican官方文档&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://pelican-zh.readthedocs.org/en/latest/zh-cn/"&gt;pelican中文文档（不全）&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.jianshu.com/p/d80a5cefc128"&gt;Pelican搭建静态博客&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Mon, 29 Feb 2016 18:00:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-02-29:pelican-build-bolg.html</guid><category>pelican</category><category>Github pages</category><category>博客</category></item><item><title>HelloWorld</title><link>http://blog.xueweihan.com/helloworld.html</link><description>&lt;h1&gt;博客的第一天&lt;/h1&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Mon, 29 Feb 2016 18:00:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-02-29:pelican-build-bolg.html</guid><category>pelican</category><category>GitHub pages</category><category>博客</category></item><item><title>HelloWorld</title><link>http://blog.xueweihan.com/helloworld.html</link><description>&lt;h1&gt;博客的第一天&lt;/h1&gt;
 &lt;p&gt;我原来的博客写在&lt;a href="http://www.cnblogs.com/xueweihan/" title="我原来的博客"&gt;博客园&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;今天终于搞定了我的xueweihan.com的博客网站：采用的是pelican和tuxlite主题，托关于github pages，详细教程请&lt;a href="http://xueweihan.com/yong-pelicanzai-github-pagesshang-da-jian-bo-ke.html" title="pelican 搭建博客教程"&gt;参考&lt;/a&gt;。&lt;/p&gt;
 &lt;hr /&gt;

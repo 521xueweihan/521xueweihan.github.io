@@ -2,7 +2,7 @@
 <html lang="zh">
 <head>
     <meta charset="utf-8">
-    <title>削微寒 - 用pelican在Github pages上搭建博客</title>
+    <title>削微寒 - 用pelican在GitHub pages上搭建博客</title>
     <meta name="description" content="">
     <meta name="author" content="xueweihan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -55,7 +55,7 @@
         <div class="span9">
     <div class='article'>
         <div class="content-title">
-            <h1>用pelican在Github pages上搭建博客</h1>
+            <h1>用pelican在GitHub pages上搭建博客</h1>
 2016-02-29 18:00
 
 by <a class="url fn" href="http://blog.xueweihan.com/author/xueweihan.html">xueweihan</a>
@@ -65,7 +65,7 @@ by <a class="url fn" href="http://blog.xueweihan.com/author/xueweihan.html">xuew
         </div>
 
         <div><h1>pelican</h1>
-<p>Pelican Static Site Generator, Powered by Python：Pelican是python语言写的静态网站生成器。因为我一直打算用github pages做一个博客，现在已经学会用Hexo在github pages上做博客了。但是我一想：我一个pythoner，干嘛不用python写的静态网站生成器。我想应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！</p>
+<p>Pelican Static Site Generator, Powered by Python：Pelican是python语言写的静态网站生成器。因为我一直打算用GitHub pages做一个博客，现在已经学会用Hexo在GitHub pages上做博客了。但是我一想：我一个pythoner，干嘛不用python写的静态网站生成器。我想应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！</p>
 <hr />
 <h2>开始</h2>
 <p>1.首先用virtualenv创建一个env</p>
@@ -91,7 +91,7 @@ pip install markdown
 &gt; Who will be the author of this web site? xueweihan
 &gt; What will be the default language of this web site? [en] zh
 &gt; Do you want to specify a URL prefix? e.g., http://example.com   (Y/n)
-&gt; What is your URL prefix? (see above example; no trailing slash) xueweihan.com
+&gt; What is your URL prefix? (see above example; no trailing slash) blog.xueweihan.com
 &gt; Do you want to enable article pagination? (Y/n)
 &gt; How many articles per page do you want? [10]
 &gt; What is your time zone? [Europe/Paris] Asia/Shanghai
@@ -212,7 +212,7 @@ github: publish
 <h2>定制属于自己的blog</h2>
 <p><strong>下面的内容算是高级篇了，需要把上面的步骤都完成。想要进一步完美自己的博客的小伙伴</strong></p>
 <p>1.独立域名
-首先要购买域名，我的实在阿里云上买的，买完之后就需要修改你的域名指向：访问xueweihan.com域名，跳转到你的.github.io。根据你购买域名时候的提示，就可以设置完成了。之后在output目录下，创建CNAME文件。内容就是你购买的域名。因为github pages只允许CNAME中的域名映射。</p>
+首先要购买域名，我的实在阿里云上买的，买完之后就需要修改你的域名指向：访问blog.xueweihan.com域名，跳转到你的.github.io。根据你购买域名时候的提示，就可以设置完成了。之后在output目录下，创建CNAME文件。内容就是你购买的域名。因为github pages只允许CNAME中的域名映射。</p>
 <p>2.定制样式结构
 一步步的来，首先要找到你喜欢的主题<a href="https://github.com/getpelican/pelican-themes">pelican主题</a>，下载的时候我推荐<code>Download ZIP</code>会快很多。下载好你的主题，我们就需要在blog目录下，找到<code>pelicanconf.py</code>文件，它是在生成静态网站时候的配置文件，定制几乎所有的东西都需要通过这个。增添内容如下：</p>
 <div class="highlight"><pre><span></span>THEME = &#39;你的主题所在目录&#39;
@@ -291,7 +291,7 @@ SITEMAP = {
 <p>7.关于我
 这个就像相当于一个自我介绍的页面，所以就需要在<code>content</code>目录下创建一个<code>pages</code>目录，然后把你要展示的内容放到<code>pages</code>目录下就可以了。</p>
 <h2>最终效果</h2>
-<p>我的博客：<a href="http://xueweihan.com">xueweihan.com</a></p>
+<p>我的博客：<a href="http://blog.xueweihan.com">blog.xueweihan.com</a></p>
 <h2>问题</h2>
 <ol>
 <li>
