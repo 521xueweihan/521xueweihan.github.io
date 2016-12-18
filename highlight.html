@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>削微寒 - 使用highlight实现代码高亮</title>
+    <meta name="description" content="">
+    <meta name="author" content="xueweihan">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+    <script src="http://blog.xueweihan.com/theme/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="http://blog.xueweihan.com/theme/bootstrap.min.css" rel="stylesheet">
+    <link href="http://blog.xueweihan.com/theme/bootstrap.min.responsive.css" rel="stylesheet">
+    <link href="http://blog.xueweihan.com/theme/local.css" rel="stylesheet">
+    <link href="http://blog.xueweihan.com/theme/pygments.css" rel="stylesheet">
+
+    <!-- So Firefox can bookmark->"abo this site" -->
+        <link href="http://blog.xueweihan.com/feeds/all.atom.xml" rel="alternate" title="削微寒" type="application/atom+xml">
+
+</head>
+
+<body>
+
+<div class="navbar">
+    <div class="navbar-inner">
+    <div class="container">
+
+         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+         </a>
+
+        <a class="brand" href="http://blog.xueweihan.com">削微寒</a>
+
+        <div class="nav-collapse">
+        <ul class="nav">
+
+            <li><a href="http://blog.xueweihan.com/pages/my-book-life.html">我的书单</a></li>
+        </ul>
+        </div>
+
+    </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="content">
+    <div class="row">
+
+        <div class="span9">
+    <div class='article'>
+        <div class="content-title">
+            <h1>使用highlight实现代码高亮</h1>
+2016-04-01 21:46
+
+by <a class="url fn" href="http://blog.xueweihan.com/author/xueweihan.html">xueweihan</a>
+ 
+
+
+        </div>
+
+        <div><h2>步骤</h2>
+<ol>
+<li>去官网下载：https://highlightjs.org/</li>
+<li>在页面上引入，样式css和highlight.js静态文件</li>
+<li>加入一段js代码，使得highlight.js生效，分析<code>&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</code>标签中的内容，实现代码高亮：</li>
+</ol>
+<div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="nx">script</span><span class="o">&gt;</span><span class="nx">hljs</span><span class="p">.</span><span class="nx">initHighlightingOnLoad</span><span class="p">();</span><span class="o">&lt;</span><span class="err">/script&gt;</span>
+</pre></div>
+
+
+<h2>实例：</h2>
+<p><strong>注意</strong>：我的css和js都放到了<code>static</code>目录下</p>
+<div class="highlight"><pre><span></span><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&quot;zh-CN&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&quot;utf-8&quot;</span><span class="p">&gt;</span>
+        <span class="c">&lt;!-- Hightlight.css --&gt;</span>
+        <span class="c">&lt;!-- 我选用的是hybrid主题 --&gt;</span>
+        <span class="p">&lt;</span><span class="nt">link</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;/static/css/hybrid.css&quot;</span> <span class="na">rel</span><span class="o">=</span><span class="s">&quot;stylesheet&quot;</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+
+    <span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+        <span class="p">&lt;</span><span class="nt">pre</span><span class="p">&gt;&lt;</span><span class="nt">code</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;language-py&quot;</span><span class="p">&gt;</span>
+            def open(self, doc_uuid=None):
+               if doc_uuid is None:
+                   self.uuid = str(uuid.uuid4())
+        <span class="p">&lt;/</span><span class="nt">code</span><span class="p">&gt;&lt;/</span><span class="nt">pre</span><span class="p">&gt;</span>
+    <span class="c">&lt;!-- hightlight.js --&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;/static/js/highlight.pack.js&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+    <span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span><span class="nx">hljs</span><span class="p">.</span><span class="nx">initHighlightingOnLoad</span><span class="p">();&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+    <span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+<span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</pre></div>
+
+
+<h2>坑</h2>
+<p>现在有一个问题:因为文章中有代码块，代码块中的代码片段可以通过highlight.js转变成
+安全的内容。但是如果对用户输入的全部内容进行转义，则会造成：代码块中的代码显示出错。</p>
+<p>解决办法：使用正则匹配，对非<code>&lt;pre&gt;&lt;/pre&gt;</code>标签内容进行转义。<br />
+终极解决办法：这个问题把我都弄崩溃了，其实问题很简单，因为highlight.js对于'lt'和'gt'会渲染
+成高亮，导致转移后的'&gt;'和'&lt;'，html无法识别！所以只需要，反转义代码块中的<code>&amp;amp;</code>。我靠坑啊！</p>
+<div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">code_unescape</span><span class="p">(</span><span class="n">s</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    代码块中的内容不转义</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">group</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+    <span class="c1"># 反转义&quot;&amp;amp;&quot;，使得&#39;&lt;&#39;,&#39;&gt;&#39;是html转义的符号。</span>
+    <span class="c1"># hightligth.js有个坑，lg和lt会高亮，使得html识别不了&quot;&amp;lt;&quot;和&quot;&amp;gt;&quot;。</span>
+    <span class="n">s</span> <span class="o">=</span> <span class="n">s</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s2">&quot;&amp;amp;&quot;</span><span class="p">,</span> <span class="s2">&quot;&amp;&quot;</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">s</span>
+
+<span class="n">content</span> <span class="o">=</span> <span class="nb">unicode</span><span class="p">(</span><span class="n">markdown2</span><span class="o">.</span><span class="n">markdown</span><span class="p">(</span><span class="n">escape</span><span class="o">.</span><span class="n">html_escape</span><span class="p">(</span><span class="n">content</span><span class="p">),</span>
+                                     <span class="n">extras</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;fenced-code-blocks&#39;</span><span class="p">]))</span>
+<span class="c1"># 反转义代码块中的&quot;&amp;amp;&quot;</span>
+<span class="n">m</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s1">&#39;\&lt;pre\&gt;[\s\S]*\&lt;\/pre\&gt;&#39;</span><span class="p">)</span>
+<span class="n">content</span> <span class="o">=</span> <span class="n">m</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="n">code_unescape</span><span class="p">,</span> <span class="n">content</span><span class="p">)</span>
+</pre></div>
+
+
+<h2>参考：</h2>
+<ul>
+<li><a href="http://www.ghostchina.com/adding-syntax-highlighting-to-ghost-using-highlight-js/">ghostchina</a></li>
+<li><a href="https://github.com/trentm/python-markdown2/wiki/fenced-code-blocks">highlight</a></li>
+<li><a href="http://www.cnblogs.com/smdm/p/5323140.html">markdown以及highlight</a></li>
+</ul></div>
+
+        <hr>
+      <div class="comments">
+        <!-- Duoshuo Comment BEGIN -->
+        <div class="ds-thread"></div>
+      </div>
+        <script type="text/javascript">
+            var duoshuoQuery = {short_name:"xueweihan"};
+      (function() {
+       var ds = document.createElement('script');
+       ds.type = 'text/javascript';ds.async = true;
+       ds.src = 'http://static.duoshuo.com/embed.js';
+       ds.charset = 'UTF-8';
+       (document.getElementsByTagName('head')[0]
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+
+       })();
+      </script>
+      <noscript>Please enable JavaScript to view the comments.</noscript>
+    <!-- Duoshuo Comment END -->
+    </div>
+        </div>
+
+        <div class="span3">
+
+            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <ul class="nav nav-list">
+                <li class="nav-header">
+                导航
+                </li>
+
+                <li><a href="http://blog.xueweihan.com/archives.html">按时间</a>
+                <li><a href="http://blog.xueweihan.com/tags.html">按标签</a>
+
+
+
+                <li><a href="http://blog.xueweihan.com/feeds/all.atom.xml" rel="alternate">订阅</a></li>
+
+            </ul>
+            </div>
+
+
+            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <ul class="nav nav-list">
+                <li class="nav-header">
+                分类
+                </li>
+
+                <li><a href="http://blog.xueweihan.com/category/bian-cheng.html">编程</a></li>
+                <li><a href="http://blog.xueweihan.com/category/ri-ji.html">日记</a></li>
+            </ul>
+            </div>
+
+
+
+
+            <div class="social">
+            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <ul class="nav nav-list">
+                <li class="nav-header">
+                我在这里
+                </li>
+                <li><a href="https://github.com/521xueweihan">github</a></li>
+                <li><a href="http://www.cnblogs.com/xueweihan/">博客园</a></li>
+            </ul>
+            </div>
+            </div>
+
+        </div>     </div>     </div> 
+<footer>
+<br />
+<p><a href="http://blog.xueweihan.com">削微寒</a> &copy; xueweihan 2016</p>
+</footer>
+
+</div> <!-- /container -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?0d41cbe881e2dcf6beff76ecd96acf7f";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script src="http://blog.xueweihan.com/theme/jquery.min.js"></script>
+<script src="http://blog.xueweihan.com/theme/bootstrap-collapse.js"></script>
+<a href="https://github.com/521xueweihan"><img style="position: absolute; top: 40px; right: 0; border: 0;" src="http://blog.xueweihan.com/theme/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+</body>
+</html>

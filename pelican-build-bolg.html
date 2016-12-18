@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>削微寒 - 用pelican在Github pages上搭建博客</title>
+    <meta name="description" content="">
+    <meta name="author" content="xueweihan">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+    <script src="http://blog.xueweihan.com/theme/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="http://blog.xueweihan.com/theme/bootstrap.min.css" rel="stylesheet">
+    <link href="http://blog.xueweihan.com/theme/bootstrap.min.responsive.css" rel="stylesheet">
+    <link href="http://blog.xueweihan.com/theme/local.css" rel="stylesheet">
+    <link href="http://blog.xueweihan.com/theme/pygments.css" rel="stylesheet">
+
+    <!-- So Firefox can bookmark->"abo this site" -->
+        <link href="http://blog.xueweihan.com/feeds/all.atom.xml" rel="alternate" title="削微寒" type="application/atom+xml">
+
+</head>
+
+<body>
+
+<div class="navbar">
+    <div class="navbar-inner">
+    <div class="container">
+
+         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+         </a>
+
+        <a class="brand" href="http://blog.xueweihan.com">削微寒</a>
+
+        <div class="nav-collapse">
+        <ul class="nav">
+
+            <li><a href="http://blog.xueweihan.com/pages/my-book-life.html">我的书单</a></li>
+        </ul>
+        </div>
+
+    </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="content">
+    <div class="row">
+
+        <div class="span9">
+    <div class='article'>
+        <div class="content-title">
+            <h1>用pelican在Github pages上搭建博客</h1>
+2016-02-29 18:00
+
+by <a class="url fn" href="http://blog.xueweihan.com/author/xueweihan.html">xueweihan</a>
+ 
+
+
+        </div>
+
+        <div><h1>pelican</h1>
+<p>Pelican Static Site Generator, Powered by Python：Pelican是python语言写的静态网站生成器。因为我一直打算用github pages做一个博客，现在已经学会用Hexo在github pages上做博客了。但是我一想：我一个pythoner，干嘛不用python写的静态网站生成器。我想应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！</p>
+<hr />
+<h2>开始</h2>
+<p>1.首先用virtualenv创建一个env</p>
+<div class="highlight"><pre><span></span>mkdir blog
+cd blog
+virtualenv env
+source env/bin/activate  #激活环境
+</pre></div>
+
+
+<p>2.使用pip安装pelican和markdown</p>
+<div class="highlight"><pre><span></span>pip install pelican
+pip install markdown
+</pre></div>
+
+
+<p>3.创建pelican目录结构</p>
+<div class="highlight"><pre><span></span>pelican-quickstart
+# 根据提示进行设置
+
+&gt; Where do you want to create your new web site? [.]
+&gt; What will be the title of this web site? 削微寒
+&gt; Who will be the author of this web site? xueweihan
+&gt; What will be the default language of this web site? [en] zh
+&gt; Do you want to specify a URL prefix? e.g., http://example.com   (Y/n)
+&gt; What is your URL prefix? (see above example; no trailing slash) xueweihan.com
+&gt; Do you want to enable article pagination? (Y/n)
+&gt; How many articles per page do you want? [10]
+&gt; What is your time zone? [Europe/Paris] Asia/Shanghai
+&gt; Do you want to generate a Fabfile/Makefile to automate generation and publishing? (Y/n)
+&gt; Do you want an auto-reload &amp; simpleHTTP script to assist with theme and site development? (Y/n)
+&gt; Do you want to upload your website using FTP? (y/N) n
+&gt; Do you want to upload your website using SSH? (y/N) n
+&gt; Do you want to upload your website using Dropbox? (y/N) n
+&gt; Do you want to upload your website using S3? (y/N) n
+&gt; Do you want to upload your website using Rackspace Cloud Files? (y/N) n
+&gt; Do you want to upload your website using GitHub Pages? (y/N)
+Done. Your new project is available at /Users/xueweihan/Documents/blog
+</pre></div>
+
+
+<p>文件结构如下：</p>
+<div class="highlight"><pre><span></span>blog/
+├── content              # 写的文章放这里
+├── output               # 生成的输出文件（发布的内容）
+├── develop_server.sh    
+├── Makefile             # 方便管理博客的Makefile
+├── pelicanconf.py       # 主配置文件
+└── publishconf.py
+</pre></div>
+
+
+<p>我们下面只用到我解释的这几个目录和文件，大致有个印象即可</p>
+<p>4.编写文章测试下效果</p>
+<div class="highlight"><pre><span></span><span class="n">Date</span><span class="o">:</span> <span class="mi">2016</span><span class="o">-</span><span class="mi">02</span><span class="o">-</span><span class="mi">28</span>
+<span class="n">Title</span><span class="o">:</span> <span class="err">测试</span>
+<span class="n">Tags</span><span class="o">:</span> <span class="err">测试</span>
+<span class="n">Slug</span><span class="o">:</span> <span class="n">test</span>
+
+<span class="err">#</span> <span class="n">pelican</span>
+<span class="n">Pelican</span> <span class="n">Static</span> <span class="n">Site</span> <span class="n">Generator</span><span class="o">,</span> <span class="n">Powered</span> <span class="n">by</span> <span class="n">Python</span><span class="err">：</span><span class="n">Pelican</span><span class="err">是</span><span class="n">python</span><span class="err">语言写的静态网站生成器。因为我一直打算用</span><span class="n">git</span> <span class="n">pages</span><span class="err">做一个博客，现在已经学会用</span><span class="n">Hexo</span><span class="err">在</span><span class="n">git</span> <span class="n">pages</span><span class="err">上做博客了。但是我还是一想：我一个</span><span class="n">pythoner</span><span class="err">，干嘛不用</span><span class="n">python</span><span class="err">写的静态网站生成器。应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！</span>
+</pre></div>
+
+
+<p>在content目录下创建一个名为：test.md的markdown文件，把上面的那些内容放进去，用来测试效果。</p>
+<p>5.本地查看效果</p>
+<div class="highlight"><pre><span></span># 在blog目录下执行
+pelican content # 根据content中的内容，生成静态网站到output目下
+
+# 在output目录下执行
+python -m pelican.server
+</pre></div>
+
+
+<p>以上两个命令执行完，没有报错的话就用浏览器打开：127.0.0.1:8000，效果如下：</p>
+<p><img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-02-28%20%E4%B8%8B%E5%8D%885.18.31.png" title="本地效果" /></p>
+<p>输入：<code>ctrl + c</code> 停止服务</p>
+<p>5.上传到github pages 现在就差最后一步，上传到github pages上面。 一步步的来：</p>
+<p>首先在github上创建一个项目，<code>Repository name</code>填写：你的github用户名.github.io 如下图：</p>
+<p><img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-02-28%20%E4%B8%8B%E5%8D%885.25.05.png" title="github 创建仓库" /></p>
+<p>然后在<code>output</code>目录依次输入：</p>
+<div class="highlight"><pre><span></span>git init
+git add .
+git commit -m &quot;pelican static blog test&quot;
+git remote add origin git@github.com:你的github用户名/你的github用户名.github.io.git
+# 例如我的就是：git@github.com:521xueweihan/521xueweihan.github.io.git
+git push -u origin master
+</pre></div>
+
+
+<p>最后访问：<a href="http://你的github用户名.github.io/">http://你的github用户名.github.io/</a> 例如我的就是：<a href="http://521xueweihan.github.io/">http://521xueweihan.github.io/</a></p>
+<p>页面如下图： <img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-02-28%20%E4%B8%8B%E5%8D%885.42.10.png" title="github pages 上效果" /></p>
+<h2>简化发布流程</h2>
+<p>还记得Makefile文件吗？我们通过修改这个文件，实现1条指令发布博客到github pages上。</p>
+<p>把<code>blog</code>目录下的Makefile文件中的内容替换成下面的内容(原Makefile文件的内容都不要)</p>
+<div class="highlight"><pre><span></span>PY?<span class="o">=</span>python
+PELICAN?<span class="o">=</span>pelican
+<span class="nv">PELICANOPTS</span><span class="o">=</span>
+
+<span class="nv">BASEDIR</span><span class="o">=</span><span class="k">$(</span>CURDIR<span class="k">)</span>
+<span class="nv">INPUTDIR</span><span class="o">=</span><span class="k">$(</span>BASEDIR<span class="k">)</span>/content
+<span class="nv">OUTPUTDIR</span><span class="o">=</span><span class="k">$(</span>BASEDIR<span class="k">)</span>/output
+<span class="nv">CONFFILE</span><span class="o">=</span><span class="k">$(</span>BASEDIR<span class="k">)</span>/pelicanconf.py
+<span class="nv">PUBLISHCONF</span><span class="o">=</span><span class="k">$(</span>BASEDIR<span class="k">)</span>/publishconf.py
+
+DEBUG ?<span class="o">=</span> 0
+ifeq <span class="o">(</span><span class="k">$(</span>DEBUG<span class="k">)</span>, 1<span class="o">)</span>
+    PELICANOPTS +<span class="o">=</span> -D
+endif
+
+RELATIVE ?<span class="o">=</span> 0
+ifeq <span class="o">(</span><span class="k">$(</span>RELATIVE<span class="k">)</span>, 1<span class="o">)</span>
+    PELICANOPTS +<span class="o">=</span> --relative-urls
+endif
+
+html:
+    <span class="k">$(</span>PELICAN<span class="k">)</span> <span class="k">$(</span>INPUTDIR<span class="k">)</span> -o <span class="k">$(</span>OUTPUTDIR<span class="k">)</span> -s <span class="k">$(</span>CONFFILE<span class="k">)</span> <span class="k">$(</span>PELICANOPTS<span class="k">)</span>
+
+clean:
+    <span class="o">[</span> ! -d <span class="k">$(</span>OUTPUTDIR<span class="k">)</span> <span class="o">]</span> <span class="o">||</span> rm -rf <span class="k">$(</span>OUTPUTDIR<span class="k">)</span>
+
+regenerate:
+    <span class="k">$(</span>PELICAN<span class="k">)</span> -r <span class="k">$(</span>INPUTDIR<span class="k">)</span> -o <span class="k">$(</span>OUTPUTDIR<span class="k">)</span> -s <span class="k">$(</span>CONFFILE<span class="k">)</span> <span class="k">$(</span>PELICANOPTS<span class="k">)</span>
+
+serve:
+ifdef PORT
+    <span class="nb">cd</span> <span class="k">$(</span>OUTPUTDIR<span class="k">)</span> <span class="o">&amp;&amp;</span> <span class="k">$(</span>PY<span class="k">)</span> -m pelican.server <span class="k">$(</span>PORT<span class="k">)</span>
+<span class="k">else</span>
+    <span class="nb">cd</span> <span class="k">$(</span>OUTPUTDIR<span class="k">)</span> <span class="o">&amp;&amp;</span> <span class="k">$(</span>PY<span class="k">)</span> -m pelican.server
+endif
+
+publish:
+    <span class="k">$(</span>PELICAN<span class="k">)</span> <span class="k">$(</span>INPUTDIR<span class="k">)</span> -o <span class="k">$(</span>OUTPUTDIR<span class="k">)</span> -s <span class="k">$(</span>CONFFILE<span class="k">)</span> <span class="k">$(</span>PELICANOPTS<span class="k">)</span>
+
+github: publish
+    <span class="nb">cd</span> <span class="k">$(</span>OUTPUTDIR<span class="k">)</span> <span class="p">;</span> git add . <span class="p">;</span>  git commit -m <span class="s1">&#39;更新博客&#39;</span> <span class="p">;</span> git push origin master
+</pre></div>
+
+
+<p><strong>更新博客流程</strong>
+1. 把写好的markdown格式的文章放到content中，然后在<code>blog</code>目录下
+2. 本地查看效果的话：<code>make html</code> 然后<code>make serve</code> 最后访问：127.0.0.1:8000
+3. 发布到github：<code>make github</code> 完成</p>
+<h2>定制属于自己的blog</h2>
+<p><strong>下面的内容算是高级篇了，需要把上面的步骤都完成。想要进一步完美自己的博客的小伙伴</strong></p>
+<p>1.独立域名
+首先要购买域名，我的实在阿里云上买的，买完之后就需要修改你的域名指向：访问xueweihan.com域名，跳转到你的.github.io。根据你购买域名时候的提示，就可以设置完成了。之后在output目录下，创建CNAME文件。内容就是你购买的域名。因为github pages只允许CNAME中的域名映射。</p>
+<p>2.定制样式结构
+一步步的来，首先要找到你喜欢的主题<a href="https://github.com/getpelican/pelican-themes">pelican主题</a>，下载的时候我推荐<code>Download ZIP</code>会快很多。下载好你的主题，我们就需要在blog目录下，找到<code>pelicanconf.py</code>文件，它是在生成静态网站时候的配置文件，定制几乎所有的东西都需要通过这个。增添内容如下：</p>
+<div class="highlight"><pre><span></span>THEME = &#39;你的主题所在目录&#39;
+# 例如：THEME = &#39;/Users/root/Documents/blog/tuxlite_tbs&#39;
+
+
+GITHUB_URL = &#39;https://github.com/你的github用户名&#39;
+# 效果是右上角有个fork me on Github，点击进入你的Github主页
+
+
+DEFAULT_DATE_FORMAT = &#39;%Y-%m-%d&#39;
+# 时间格式
+
+
+SOCIAL = ((&#39;github&#39;, &#39;https://github.com/521xueweihan&#39;),
+          (&#39;博客园&#39;, &#39;http://www.cnblogs.com/xueweihan/&#39;))
+# 几乎所有的博客主题都有一个地方展示你的社交账号，这些账号就写在这里，上面是我的
+
+
+DISQUS_SITENAME = &#39;shortname&#39;
+# 评论功能，需要在Disqus上申请一个站点，替换shortname
+</pre></div>
+
+
+<p>如果有python基础的，可以直接修改主题目录下的<code>template</code>中的模版。已达到你想要的目录结构和内容的呈现。</p>
+<p>3.简单的SEO
+在output文件中创建rebots.txt，这个文件是一个协议文件，没有不会影响什么。但是有的话，有利于搜索引擎的收录。内容如下，允许所有爬虫，同时不允许爬取theme目录下的内容，和所有的图片。：</p>
+<div class="highlight"><pre><span></span>User-agent: *
+Disallow: /theme/
+Disallow: /.gif$
+Disallow: /.png$
+Disallow: /.jpg$
+</pre></div>
+
+
+<p>大多数主题多是外国人写的，所以他们都支持‘谷歌分析’</p>
+<div class="highlight"><pre><span></span>GOOGLE_ANALYTICS = &#39;跟踪ID&#39;
+</pre></div>
+
+
+<p>而百度的分析就需要手动的在主题目录下的template目录下的base.html中增添百度的分析代码。</p>
+<p>4.sitemap是对于爬虫友好的一个文件，它告诉爬虫，网站的更新频率和优先级等。<a href="http://baike.baidu.com/view/1072062.htm">详情</a></p>
+<p>增添插件：</p>
+<div class="highlight"><pre><span></span>git clone git://github.com/getpelican/pelican-plugins.git
+</pre></div>
+
+
+<p>修改pelicanconf.py文件：</p>
+<div class="highlight"><pre><span></span>PLUGIN_PATH = u&quot;pelican-plugins&quot;
+PLUGINS = [&quot;sitemap&quot;]
+SITEMAP = {
+    &quot;format&quot;: &quot;xml&quot;,
+    &quot;priorities&quot;: {
+        &quot;articles&quot;: 0.7,
+        &quot;indexes&quot;: 0.5,
+        &quot;pages&quot;: 0.3,
+    },
+    &quot;changefreqs&quot;: {
+        &quot;articles&quot;: &quot;monthly&quot;,
+        &quot;indexes&quot;: &quot;daily&quot;,
+        &quot;pages&quot;: &quot;monthly&quot;,
+    }
+}
+</pre></div>
+
+
+<p>5.favicon.ico
+放在output的根目录下。</p>
+<p>6.订阅
+因为pelican的库包含了feedgenerator。feedgenerator是用来生成Atom feeds（是包含你博客数据的xml的文件）用于订阅。所以你只需要在<code>pelicanconf.py</code>加入：</p>
+<div class="highlight"><pre><span></span>FEED_ALL_RSS =  &#39;feeds/all.rss.xml&#39;
+</pre></div>
+
+
+<p>博客就会自动生成订阅功能了。</p>
+<p>7.关于我
+这个就像相当于一个自我介绍的页面，所以就需要在<code>content</code>目录下创建一个<code>pages</code>目录，然后把你要展示的内容放到<code>pages</code>目录下就可以了。</p>
+<h2>最终效果</h2>
+<p>我的博客：<a href="http://xueweihan.com">xueweihan.com</a></p>
+<h2>问题</h2>
+<ol>
+<li>
+<p>当删除了一篇博文，但是以我上面所说的方式发布的话。那片文章其实还是存在于github pages上的。只不过没有在模版中生成链接罢了。这种类似的情况会导致：换主题css丢失等问题。当然如果你清空<code>output</code>目录，然后重新生成网站的话，就没问题。但是清空的话，会导致一切不因该被删的文件也都被删除了，例如：.git和CNAME等文件。所以我就写了一个<code>del.sh</code>，用于删除pelican生成的文件，其他哪些通用文件都不删除。这样暂时可以解决问题。</p>
+</li>
+<li>
+<p>本来想要在两台电脑上都可以发布文章，修改完makefile我发现不是刚性需求，同时实现效果不好。最后的解决方案是，把文章写在另外的一个github的项目中，分布式编辑这个项目。最后写文章之前，<code>git pull</code>获取最新的文章，这样就可以同步最新的内容进行修改发布了。</p>
+</li>
+<li>
+<p>我遇到的另外一个问题，就是pelican－theme上面大多都是国外的主题，有的主题中的jquery.js是用的google的cdn。在国内访问的时候会造成找不到jquery.js对体验和响应时间造成很大的影响。所以，部署完站点后，最好打开浏览器的开发者模式，查看一下各个文件的请求耗时。如果有我上述情况，那么你可以尝试把那个请求耗时过长的静态文件，下载好，放到该主题目录下<code>static</code>中对应的目录内。</p>
+</li>
+<li>
+<p>这个其实不是问题，算是一个建议。文章的格式中，加入<code>Slug: test</code>。这个字段的是：用于文章生成url的。不添加这个字段话，默认是拼音的url。但是有时侯拼音是错误的，而且对于搜索引擎很不友好。</p>
+</li>
+</ol>
+<h2>参考</h2>
+<ul>
+<li><a href="http://www.lizherui.com/pages/2013/08/17/build_blog.html">lizherui的博客</a></li>
+<li><a href="http://docs.getpelican.com/en/3.5.0/quickstart.html">pelican官方文档</a></li>
+<li><a href="https://pelican-zh.readthedocs.org/en/latest/zh-cn/">pelican中文文档（不全）</a></li>
+<li><a href="http://www.jianshu.com/p/d80a5cefc128">Pelican搭建静态博客</a></li>
+</ul></div>
+
+        <hr>
+      <div class="comments">
+        <!-- Duoshuo Comment BEGIN -->
+        <div class="ds-thread"></div>
+      </div>
+        <script type="text/javascript">
+            var duoshuoQuery = {short_name:"xueweihan"};
+      (function() {
+       var ds = document.createElement('script');
+       ds.type = 'text/javascript';ds.async = true;
+       ds.src = 'http://static.duoshuo.com/embed.js';
+       ds.charset = 'UTF-8';
+       (document.getElementsByTagName('head')[0]
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+
+       })();
+      </script>
+      <noscript>Please enable JavaScript to view the comments.</noscript>
+    <!-- Duoshuo Comment END -->
+    </div>
+        </div>
+
+        <div class="span3">
+
+            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <ul class="nav nav-list">
+                <li class="nav-header">
+                导航
+                </li>
+
+                <li><a href="http://blog.xueweihan.com/archives.html">按时间</a>
+                <li><a href="http://blog.xueweihan.com/tags.html">按标签</a>
+
+
+
+                <li><a href="http://blog.xueweihan.com/feeds/all.atom.xml" rel="alternate">订阅</a></li>
+
+            </ul>
+            </div>
+
+
+            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <ul class="nav nav-list">
+                <li class="nav-header">
+                分类
+                </li>
+
+                <li><a href="http://blog.xueweihan.com/category/bian-cheng.html">编程</a></li>
+                <li><a href="http://blog.xueweihan.com/category/ri-ji.html">日记</a></li>
+            </ul>
+            </div>
+
+
+
+
+            <div class="social">
+            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <ul class="nav nav-list">
+                <li class="nav-header">
+                我在这里
+                </li>
+                <li><a href="https://github.com/521xueweihan">github</a></li>
+                <li><a href="http://www.cnblogs.com/xueweihan/">博客园</a></li>
+            </ul>
+            </div>
+            </div>
+
+        </div>     </div>     </div> 
+<footer>
+<br />
+<p><a href="http://blog.xueweihan.com">削微寒</a> &copy; xueweihan 2016</p>
+</footer>
+
+</div> <!-- /container -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?0d41cbe881e2dcf6beff76ecd96acf7f";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script src="http://blog.xueweihan.com/theme/jquery.min.js"></script>
+<script src="http://blog.xueweihan.com/theme/bootstrap-collapse.js"></script>
+<a href="https://github.com/521xueweihan"><img style="position: absolute; top: 40px; right: 0; border: 0;" src="http://blog.xueweihan.com/theme/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+</body>
+</html>

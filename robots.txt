@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /theme/
+Disallow: /.gif$
+Disallow: /.png$
+Disallow: /.jpg$
+Disallow: /pages/my-life-feel.html

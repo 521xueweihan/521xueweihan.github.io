@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>削微寒</title><link>http://blog.xueweihan.com/</link><description></description><lastBuildDate>Sun, 11 Sep 2016 22:01:00 +0800</lastBuildDate><item><title>量化目标</title><link>http://blog.xueweihan.com/goal.html</link><description>&lt;h3&gt;目前状态&lt;/h3&gt;
+&lt;p&gt;最近总是感觉自己的产出很少，东一榔头，西一棒子。无法专注的做些事情，总想把所有的事情搞好，最后发现时间都被自己的浪费掉了。同时感觉很累，一天到晚马不停蹄，最后忙完一天发现没有什么产出。为什么会这样？&lt;/p&gt;
+&lt;p&gt;我感觉，我的累主要是因为：&lt;strong&gt;劳无所获。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我最喜欢的状态是：努力——成果——满血——努力——成功，如此反复循环。这种状态下我就不会觉得累，目前自己做的东西，总是感觉做完没什么即视的成功，让我感觉‘遥遥无期’，毫无斗志。&lt;/p&gt;
+&lt;h3&gt;自我反思&lt;/h3&gt;
+&lt;p&gt;如果说编程语言入门简单，在我看来是：按照例子输入代码，返回预期的结果，良性循环，会很快入门。而学习编程过程中，半途而废的情况，大多数是卡在一个地方：一个知识点弄不懂、一个bug解决不了、我没有做错啊，为什会出现这种情况？是啊，如果一切可以按部就班，只是按照着输入就能够成为优秀的程序，那么身体健全，有小学教育水平的都能够成为优秀的程序员，那么好的程序员需求量也不会‘供不应求’了。&lt;/p&gt;
+&lt;p&gt;‘如果遇到的问题，那么这就是你走向提高一个机会’，我自己来说，我掌握了解决问题的方法：分解问题、学会提问、善用google。使用以上几点，问题就会迎刃而解，然后我又回到了那个‘愉快编程’的程序员了。但是现在我遇到的问题，或者所处的阶段，不是一次性就能解决的。问题接着问题，困难接着困难——我好像不能在用以前的心态（注意这里是心态，不是方法）来解决目前的困境，我需要调整心态。&lt;/p&gt;
+&lt;h3&gt;正视自己&lt;/h3&gt;
+&lt;p&gt;一本七百页的英文原版书，我想一次性看完、吃透？打算用一个星期、一个月、三个月？这个时间定的不切实际，从而打击了我的自信和激情。因为，我自己定的时间是站在我这个水平定下的，我不是站在高一级层面俯视，我现在所处层面。为什么老师留作业、上司定任务？&lt;/p&gt;
+&lt;p&gt;如果我给自己定下了‘不切实际’的目标，我就可能完不成，我已经很努力但是没有达到目标，也就阻塞在了成果的前面。从而阻塞了这个自我激励的良性循环，让我身心匹配，开始怀疑人生了😄&lt;/p&gt;
+&lt;p&gt;这或许就是进阶的难处，所以我需要：调整心态，正视自己的能力，不断试错，允许犯错，&lt;strong&gt;循序渐进&lt;/strong&gt;。一切从头开始，从新积累自信，这次的自信是在自我否定中建立起来的。逐步正视自己的能力，才能正视收获，重新看到自己的成果，恢复良性的自我激励循环。&lt;/p&gt;
+&lt;h3&gt;量化目标&lt;/h3&gt;
+&lt;p&gt;动态规划目标，一段时间做一件事情，要耐得住寂寞。因为现在能让我有成就感的成功，不是几天就可以做到的。所以，完成一件事情，会分成很多个小的目标，而小的目标还需要具体的量化：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;bad:用一个月时间读完《图解TCP/IP》
+good:每天看是20页
+great:每天起床后40min，看完20页
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;我觉得这样会好一些，量化的目标——事儿、量、点儿&lt;/p&gt;
+&lt;h3&gt;最后&lt;/h3&gt;
+&lt;p&gt;坚持、专注、自信，不是盲目的自信，要知道现在要做的事正是我走向优秀的里程碑，没有随便的成功。过程必然是痛苦、寂寞的。&lt;/p&gt;
+&lt;p&gt;希望有所好转，搞它！TMD！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Sun, 11 Sep 2016 22:01:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-09-11:goal.html</guid><category>感悟</category></item><item><title>乌云背后的阳光</title><link>http://blog.xueweihan.com/the-others-bab-code.html</link><description>&lt;h1&gt;乌云背后的阳光&lt;/h1&gt;
+&lt;p&gt;如果我没记错的话，这是一部电影的名字。主要讲的是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不论生活再怎么不堪，但还是会有好的事情发生。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我第一次接手别人的代码感悟。&lt;/p&gt;
+&lt;h2&gt;责任感&lt;/h2&gt;
+&lt;p&gt;在我看来，现在对于程序员来说是个遍地是机会的年代，跳槽的事情比比皆是。大家都已经习以为常，昨天还坐在身边的同事，过了一周，已经‘人去楼空’。离开的原因有很多种：环境、薪水、同事、能力、个人原因等。我们作为同事，不会去深入探究他离开的原因，更多的时候我们是看着，他留下的代码。好像，明白了他为什么离开——他咽不下自己写的代码。&lt;/p&gt;
+&lt;p&gt;前人的锅，后人来背，背不动就扛，扛不动了，怎么办呢？如果，怀着得过且过的心态，对于软件工程来说是极度不可取的。因为，如果对一个bug只解决表象的问题，这样可能会造成其他地方的问题。东拼西凑，慢慢的，会失去对代码的控制性。可控性的降低，会造成，最后问题爆发的时候，发现为时已晚，悔恨当初。&lt;/p&gt;
+&lt;p&gt;我想，问题关键在于：责任感。前人的责任感，后人的责任感。问题，终究需要解决，是真的的解决。问题到自己的头上的时候，如果不真正的结局，会埋下隐患。或许，进度的催促，测试的纠缠，多重压力下，难以静心去根除问题，此时，是时候唤起内心的“真善美”，同时也是给自己留条后路。&lt;/p&gt;
+&lt;p&gt;我一直以为自己在吃屎，后来发现自己是掉进屎坑里了。&lt;/p&gt;
+&lt;h2&gt;既然已上路，善始善终&lt;/h2&gt;
+&lt;p&gt;接手别人的代码不是一件轻松的事情，但既然已经上路，善始善终。项目功能的错误和欠缺，是可以通过一代代的版本迭代逐步完善，我的上司告诉我：“只要一直想着把项目做好，终究项目会越来越好。”，我不是对外包行业有意见，事实如此。自己做的项目，不是为了应付交付，而是想着项目越来越好。&lt;/p&gt;
+&lt;p&gt;当责任心，伴上相信明天会更好的心态，信心的种子开始萌芽了。&lt;/p&gt;
+&lt;h2&gt;坚定信心&lt;/h2&gt;
+&lt;p&gt;想清楚了这些，如果再有个理解你的上司。在跟上司，阐述完你的情况和工作中的问题后，如果能获得上司的肯定和支持。那么就放下顾虑，燃起斗志搞起！&lt;/p&gt;
+&lt;p&gt;我认为：上司的理解和信任是工作中能够学习到更多和走的更远的必需条件。整装待发，起帆远航吧。&lt;/p&gt;
+&lt;h2&gt;不积跬步，无以至千里&lt;/h2&gt;
+&lt;p&gt;最后一点，就是告诫自己不要急，我是个急性子。但是，罗马不是一天建成的，东西是一点点完善。而且，接手过来的代码肯定是一步步的拿下，边改边掌握，最后重写。上来就重写的可能性，太小。主要是需要先熟悉业务流程，才能完成重写。&lt;/p&gt;
+&lt;p&gt;最后，完成整个的过程，能力的提升是一方面，更多的是对整个核心业务流程的掌握，原来我都是写一些边缘的功能。这次也是对我很好的一次锻炼，我一定要抓住这次机会，努力提高自己。&lt;/p&gt;
+&lt;h2&gt;后记&lt;/h2&gt;
+&lt;p&gt;这个项目做完第一期后，我就离职了。现在在新的工作单位，接触新的技术，比以前忙太多了。比较想念原来的同事，会哥，涂老大，伟洁。哎，人生路都是自己的选择，哭着也要走完！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Sat, 04 Jun 2016 18:01:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-06-04:the-others-bab-code.html</guid><category>收获</category></item><item><title>写了一年的博客</title><link>http://blog.xueweihan.com/one-year.html</link><description>&lt;h2&gt;前言&lt;/h2&gt;
+&lt;p&gt;以后在这里我打算在写一些日记和生活感悟的东西，在&lt;a href="http://www.cnblogs.com/xueweihan/"&gt;博客园&lt;/a&gt;写技术类的文章。&lt;/p&gt;
+&lt;p&gt;到今天为止，我在博客园写博客，已经满一年了，这一年也是我走上编程道路的一年。这一年里，我开始学编程，从大学毕业，工作，写博客。转眼也一年了，打算写个总结，总结下这个期间的经历和收获。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;现在，打开编辑器，看着闪动着的光标，思绪就回到一年前，大四时候的时候。&lt;/p&gt;
+&lt;h2&gt;万事开头难&lt;/h2&gt;
+&lt;p&gt;我的第一篇文章：&lt;a href="http://www.cnblogs.com/xueweihan/p/4515642.html"&gt;博客的第一天&lt;/a&gt;，我重读了一遍，发现有很多错别字，也没什么排版。我也就不改了，保持“原汁原味”。看完这篇文章，我依然能感受到，当时我写下这篇博客的心情，我想这就是：写博客的一个好处之一，就跟照片一样，会记录下当时的场景。对我来说文字或许会更‘生动’一些，我可以从我的字里行间，回忆起很多东西。&lt;/p&gt;
+&lt;p&gt;在博客园开始写博客，也是我走上编程道路的开始，当时大四，啥都不会，我想初学编程的都经历过‘剃牦牛’的过程（布置开发环境、安装软件、配置）。这段时间是十分痛苦的，我还记得当时学python，在windows下编程，输出中文我折腾了一个晚上。现在想起来，我嘴角挂起了微笑。腿上放着一本从图书馆借的《笨方法学python》，找着书上一点点的打，运行，报错，调试，再报错！&lt;/p&gt;
+&lt;p&gt;遇到任何问题，我就百度一下，后来发现很多python问题，都是跳转到一个叫做&lt;a href="http://www.liaoxuefeng.com/"&gt;廖雪峰&lt;/a&gt;网站。所以，我‘拜了’我的第一个编程启蒙老师廖雪峰——廖老师，我跟廖老师学的git，知道了Github。并把我学习过程中写的代码片段，都放在Github上面：&lt;a href="https://github.com/521xueweihan/python"&gt;笨方法学python&lt;/a&gt;。我把《笨方法学python》所有代码都敲了一边（没有多少），我用了一个月的时间！《笨方法学python》这本书，不讲任何代码背后的东西和高级特性，都是一些简单的代码片段，就是为了让你学会用，跑起来就好了。我看完这本书，感觉自己还是什么都不会！但是，最起码我能让程序跑起来了，哈哈哈。&lt;/p&gt;
+&lt;p&gt;最初，在廖老师的python教程，我真的没看懂好吗？什么面向函数式编程，面向对象，多线程，生成器。。。不知所云。起初，我只学会了一个高级特性，就是‘切片’。就屁颠屁颠地去写爬虫了：&lt;a href="http://www.cnblogs.com/xueweihan/p/4592212.html"&gt;新手写爬虫全过程（已完成）&lt;/a&gt;，整个过程用了一天。我发完这篇博客，发现有人给我评论了！&lt;strong&gt;我五月份，写了整整一个月的博客，没有一条评论&lt;/strong&gt;😭，有人交流的感觉真的很好，会让你更加有动力去写博客！所以，呼吁大家多评论，留言（当然，我这点做的也不好。。。低头扣手）&lt;/p&gt;
+&lt;p&gt;后来，因为初入编程的领域，一切都是神秘的，不知所措的。别人建议程序员一定要会linux（同时我发现招聘中的技术要求也大多都需要回linux），我就去学：&lt;a href="http://www.cnblogs.com/xueweihan/p/4522687.html"&gt;今天安装了麒麟系统&lt;/a&gt;。然后，跟着&lt;a href="http://www.imooc.com/"&gt;慕课网&lt;/a&gt;的&lt;a href="http://www.imooc.com/view/175"&gt;Tony老师的视频&lt;/a&gt;一步步跟着做，有的时候边打游戏（推荐劳逸结合😄）还放着tony老师的视频当做相声听。&lt;/p&gt;
+&lt;p&gt;五、六月结束了，我在博客园写下了27篇文章，都是些没有什么技术含量的文章，我的结论就是：就是写！没人看也写！同时，我觉得博客园中的园友都是很友善的，因为我写的小白文章，都没人嘲讽，大家知道：谁都是这么过来的（或者是懒得打字嘲讽😂)&lt;/p&gt;
+&lt;h2&gt;找个‘老司机’&lt;/h2&gt;
+&lt;p&gt;后面我就以编程新手，走出校园，步入职场了，求职的过程:&lt;a href="http://www.cnblogs.com/xueweihan/p/4782634.html"&gt;学渣的心酸（求职篇）&lt;/a&gt;。最终，我很幸运，找到了个真正的‘老司机’，我的师父。&lt;/p&gt;
+&lt;p&gt;有个‘老司机’的重要性，我想大家都懂。跟着我师父的这段时间，我开了眼界：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;技术上：我发现linux原来是这样玩的、代理、代码原来要这么写、代码规范、git工作流、HTTP是什么鬼、MVVM、Mysql。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他：Mac、机械键盘、VPS、看英文文档而不是百度、英语的重要性、做程序员而不是码农，死亡连环问、提问的技巧、自己寻找答案的过程收获的比别人给的要多的多。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;书籍：《python核心编程》，《图解HTTP》。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;每天我就想一个饿汉一样疯狂的学习各种知识，那段时间现在回想起来，真的我师父对我用心良苦，每次我师父给我安排的任务都是再三思考，力求我在完成这个任务的过程，能提高自身的能力。正如，我上面说：我问我师父问题，一般得不到直接的答案，我师父会帮我理清思路，从而自己找到答案。&lt;/p&gt;
+&lt;p&gt;然而，故事的结局总是悲剧的，因为当时我太年轻，并不知道我师父的用心良苦，也不能理解我师父为什么总是把我的问题转化为其他的问题，让我抓狂（因为当时我的技术真的很差，很多编程基础都不知道，导致不能理解我师父的话——死亡连环问）。同时，因为自己想出去看看，四个月后我离职了。&lt;/p&gt;
+&lt;p&gt;这四个月中，我几乎没写博客，很遗憾我师父教我的这些东西，并没记录在博客中。我师父是我现实中的编程启蒙老师，他不只教给我技术。我师父总是说一句话：我是在教你解决问题的方法（技巧）。我师父对我有知遇之恩（我当时菜的抠脚），当时我都不敢叫我师父为‘师父’，我都怕人家不愿意当我这个小菜鸟的师父，后来叫多了我想我师父也就认了吧（哈哈哈，强行拜师😄）。说了这么多，都有点想我师父了。&lt;/p&gt;
+&lt;p&gt;老司机的重要性，不言而喻，同样的道理，找到有共同爱好，志同道合的小伙伴，也可以促进进步。&lt;/p&gt;
+&lt;p&gt;博客园中遇到志同道合的小伙伴的概率很大！老司机也很多！&lt;/p&gt;
+&lt;h2&gt;看到了高山，就知道努力的方向&lt;/h2&gt;
+&lt;p&gt;我想，我师父就是我眼中的高山，我努力的方向。《代码大全》中有句话，是这么说的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作为一个初学者或者进阶者，这并没有什么错。当一个有能力的程序员而不是领导者，这也没有错。真正的错误是，当你知道如何去提高时，仍然选择做一名初学者。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我十分认同这句话。同时，我找到一份新的工作，工作环境很好，干完自己的活，可以做自己的事情。所以，我走上了进阶的道路。因为如果不算12月（离职，找工作，休息），从1月到5月我写了47篇文章（有很多滥竽充数的😅）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 为了提高自己的英语水平，我开始翻译文章，我翻译的第一篇文章，用了一个星期：&lt;/strong&gt;
+- &lt;a href="http://www.cnblogs.com/xueweihan/p/5220513.html"&gt;《什么是真正的程序员》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 动手写一些东西（还有很多不足）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/521xueweihan/PySpider"&gt;爬虫&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/521xueweihan/holleworld"&gt;holleworld网站(用tornado框架，未完成)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/%E9%87%8D%E5%86%99%E5%89%8D%E7%AB%AF%E5%90%8E1.gif" /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. 学习基本的网络知识&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.cnblogs.com/xueweihan/p/5330189.html"&gt;HTTP真的很简单&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.cnblogs.com/xueweihan/p/5408468.html"&gt;什么是web框架？&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.cnblogs.com/xueweihan/p/5471872.html"&gt;HTTP Header详解(转载)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.cnblogs.com/xueweihan/p/5445869.html"&gt;HTTP 状态代码表示什么意思？&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.cnblogs.com/xueweihan/p/5452873.html"&gt;网游中的网络编程系列&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. 坚持每天在github上push&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/2.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 看书，逛github&lt;/strong&gt;
+- &lt;a href="https://blog.xueweihan.com/pages/my-book-life.html"&gt;我的书单&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.cnblogs.com/xueweihan/category/824908.html"&gt;我做的github月刊&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;慢慢的一切变的好起来，文章有人看了，有人点赞了，有人评论了。几乎都是鼓励的话，还有通过博客园的平台认识了很多前辈。在跟他们的交流中，学会了很东西，感谢🙏。&lt;/p&gt;
+&lt;p&gt;我依然走在进阶的道路上，要学的东西还有很多，我相信：&lt;code&gt;不积跬步，无以至千里！&lt;/code&gt;，坚持做。我偶然听到一首歌，分享给大家：🎵&lt;a href="http://music.163.com/#/m/song?id=35476049"&gt;这个年纪&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;看完这篇文章的看官们，或许会感到有些失望，没有什么葵花宝典，没有什么惊世骇俗的履历。又或者听到我分享我的那首歌，回一下自己的编程历程，是否唏嘘不已？&lt;/p&gt;
+&lt;p&gt;老一辈的程序员曾告诉我：“你所处的这个时代非常好，自己想学什么就可以学，但是我们那时候公司叫做什么就要去做什么，当年的工资还很低。现在开源的东西那么多，交流这么方便，网上资源也很多。学起来多方便啊！”&lt;/p&gt;
+&lt;p&gt;如果没有动力学编程，推荐提早入：Mac和一把500以上的机械键盘，花钱多？你坑我？不不不，到时候你会想：“投了这么多钱，还敢不好好学吗？”（欢迎入坑！！😄Mac会提高你的编程效率，严肃😠脸）&lt;/p&gt;
+&lt;p&gt;博客园对我来说已经是不可缺少的一个平台，它完整的记录我的编程历程。希望，第二年的时候，我还可以以一篇文章来总结我一年的收获！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Fri, 20 May 2016 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-05-20:one-year.html</guid><category>博客</category></item><item><title>使用highlight实现代码高亮</title><link>http://blog.xueweihan.com/highlight.html</link><description>&lt;h2&gt;步骤&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;去官网下载：https://highlightjs.org/&lt;/li&gt;
+&lt;li&gt;在页面上引入，样式css和highlight.js静态文件&lt;/li&gt;
+&lt;li&gt;加入一段js代码，使得highlight.js生效，分析&lt;code&gt;&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&lt;/code&gt;标签中的内容，实现代码高亮：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nx"&gt;script&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nx"&gt;hljs&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;initHighlightingOnLoad&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="err"&gt;/script&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;实例：&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：我的css和js都放到了&lt;code&gt;static&lt;/code&gt;目录下&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="cp"&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;html&lt;/span&gt; &lt;span class="na"&gt;lang&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;zh-CN&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;head&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;meta&lt;/span&gt; &lt;span class="na"&gt;charset&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;utf-8&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class="c"&gt;&amp;lt;!-- Hightlight.css --&amp;gt;&lt;/span&gt;
+        &lt;span class="c"&gt;&amp;lt;!-- 我选用的是hybrid主题 --&amp;gt;&lt;/span&gt;
+        &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;link&lt;/span&gt; &lt;span class="na"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/static/css/hybrid.css&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;rel&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;head&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;pre&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;code&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;language-py&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+            def open(self, doc_uuid=None):
+               if doc_uuid is None:
+                   self.uuid = str(uuid.uuid4())
+        &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;code&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;pre&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="c"&gt;&amp;lt;!-- hightlight.js --&amp;gt;&lt;/span&gt;
+    &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;script&lt;/span&gt; &lt;span class="na"&gt;src&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;/static/js/highlight.pack.js&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;script&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;script&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nx"&gt;hljs&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;initHighlightingOnLoad&lt;/span&gt;&lt;span class="p"&gt;();&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;script&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;html&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;坑&lt;/h2&gt;
+&lt;p&gt;现在有一个问题:因为文章中有代码块，代码块中的代码片段可以通过highlight.js转变成
+安全的内容。但是如果对用户输入的全部内容进行转义，则会造成：代码块中的代码显示出错。&lt;/p&gt;
+&lt;p&gt;解决办法：使用正则匹配，对非&lt;code&gt;&amp;lt;pre&amp;gt;&amp;lt;/pre&amp;gt;&lt;/code&gt;标签内容进行转义。&lt;br /&gt;
+终极解决办法：这个问题把我都弄崩溃了，其实问题很简单，因为highlight.js对于'lt'和'gt'会渲染
+成高亮，导致转移后的'&amp;gt;'和'&amp;lt;'，html无法识别！所以只需要，反转义代码块中的&lt;code&gt;&amp;amp;amp;&lt;/code&gt;。我靠坑啊！&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;code_unescape&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="sd"&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class="sd"&gt;    代码块中的内容不转义&lt;/span&gt;
+&lt;span class="sd"&gt;    &amp;quot;&amp;quot;&amp;quot;&lt;/span&gt;
+    &lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;group&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="c1"&gt;# 反转义&amp;quot;&amp;amp;amp;&amp;quot;，使得&amp;#39;&amp;lt;&amp;#39;,&amp;#39;&amp;gt;&amp;#39;是html转义的符号。&lt;/span&gt;
+    &lt;span class="c1"&gt;# hightligth.js有个坑，lg和lt会高亮，使得html识别不了&amp;quot;&amp;amp;lt;&amp;quot;和&amp;quot;&amp;amp;gt;&amp;quot;。&lt;/span&gt;
+    &lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;replace&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&amp;amp;amp;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;&amp;amp;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;s&lt;/span&gt;
+
+&lt;span class="n"&gt;content&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;unicode&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;markdown2&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;markdown&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;escape&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;html_escape&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;content&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+                                     &lt;span class="n"&gt;extras&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;fenced-code-blocks&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]))&lt;/span&gt;
+&lt;span class="c1"&gt;# 反转义代码块中的&amp;quot;&amp;amp;amp;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;m&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;re&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;compile&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;\&amp;lt;pre\&amp;gt;[\s\S]*\&amp;lt;\/pre\&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;content&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;m&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sub&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;code_unescape&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;content&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;参考：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.ghostchina.com/adding-syntax-highlighting-to-ghost-using-highlight-js/"&gt;ghostchina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/trentm/python-markdown2/wiki/fenced-code-blocks"&gt;highlight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cnblogs.com/smdm/p/5323140.html"&gt;markdown以及highlight&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Fri, 01 Apr 2016 21:46:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-04-01:highlight.html</guid><category>代码高亮</category></item><item><title>不知道做什么——&gt;懒</title><link>http://blog.xueweihan.com/lazy.html</link><description>&lt;p&gt;很多时候，我想到一个能让自己热血沸腾的点子💡，创意。当我仔细思考，这个点的某个功能如何实现，选用那种技术，实用性等等因素之后。我就认为这个点子实现的可能性为‘零’，最终这个最初让我热血沸腾的点子，就会死在我的‘脑子里’。以至于，每次想到一个💡，到最后都是以否定而结尾的。弄的我都不相信自己能做出一些东西，这种感觉特别沮丧！&lt;/p&gt;
+&lt;p&gt;我称这种状态为：&lt;/p&gt;
+&lt;h2&gt;不知道做什么？&lt;/h2&gt;
+&lt;p&gt;今年，我在给自己写2016计划的时候，我认真的思考之后。没有写什么大的目标，而是给自列了一个每日的任务清单。都是一些很小的事情，例如：背单词，每天看一个小时书等。前段时间，我看完了《自控力》得到的一个感悟就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自控力是需要锻炼的，就像肌肉一样。同时需要逐步的建立信心，千万不要埋怨自己。比如：坚持每天看一个小时书，如果有一天没有完成这个任务，不要自暴自弃。自我埋怨，过度的自我批评。会让自己真的觉得自己坚持不下去，从而有借口放弃。自控力是一点点变的强大的，当你每天可以坚持一件很小的事情，渐渐的你会发现，你坚持的事情很有意义。信心也会强大，这个时候你就会去做更有意义的事情（更难，所以更需要自控力），这就会形成一个良性循环。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其中有一项就是坚持每天向github，push东西，最开始我就把自己收集的一些资料，随便的push到github上面。后来发现，自己的排版真的惨不忍睹，同时也觉得Markdown的语法很酷。慢慢的就用Markdown编辑整理收集的资料。后来自己就尝试翻译一些英文的文章，一方面学习知识，一方面也可以提高自己的英语水平。在积累知识的过程中，我发现：编程是一门实用性技术，只有动手实现才能真正掌握。所以，我开始尝试自己从头完成一个项目。&lt;/p&gt;
+&lt;p&gt;好了，终于可以回道我的标题所讲的内容了。在我打算从头做一个项目的时候，我感觉自己无从下手。这个时候，我就告诉自己：罗马不是一天建成的。我只要坚持每天写一点，不管是什么，只要不放弃，终究会做出一个东西的。做的过程中我发现，原本做之前想会遇到的问题。当我真正面对的这个问题的时候，我会变的更加专注于这一个问题。其实也就是相当于把问题拆分了，解决一个又一个问题的过程，我原来的知识得到了应用，同时编程能力也在逐步提高。慢慢的积累自己的信心，到最后我就真的相信我可以把这个项目做出来！当然做好不敢保证，因为技术是一步步的提升的，不可能一次写出来的东西就是完美的。&lt;/p&gt;
+&lt;p&gt;当然，做一件事情之前多思考，肯定是好的。我上面的说那么多，就是想告诉你：&lt;strong&gt;不要被你自己给吓倒！&lt;/strong&gt; 前期做全局的规划和考虑会遇到的问题，是很好的习惯，我师父教导我：&lt;strong&gt;“做之前要多思考！”&lt;/strong&gt; 这两者是不矛盾的。要有长远的规划，做预判性的思考。同时，不要被&lt;strong&gt;将来的问题&lt;/strong&gt;吓倒，而退缩。你要相信，每当你解决了一个问题，你都会提高。当真正去面对这个问题的时候，你已经不是原来的你了！你就升级称为Plus的你了，更强大能力，更坚定的信心！。&lt;/p&gt;
+&lt;p&gt;或许现在，你已经开始去注册github账号或者打开你的IDE准备去写一些东西。如果你觉得现在的状态正好，那就快去。后面的内容可以等你，激情下降的时候再来看也不迟。&lt;/p&gt;
+&lt;h2&gt;懒&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;明日复明日，明日何其多？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我想做编程的人，都知道挖了很多坑的意思。而我就是给自己挖了很多坑：翻译文章，写项目，工作，看书，学英语。。感觉一切都没有尽头，我有种给自己上了枷锁，感觉没有干完的一天。当我坐下来想要做些什么的以后，我不想做这个，也不想做哪个，到头来，什么也没做，时间都浪费了。&lt;/p&gt;
+&lt;p&gt;这个时候，不是没事做，而是事太多，懒的做！我发现懒这个毛病要是犯了，不自己我救赎，别人真的没法帮你！我犯懒的时候，我就很自然的放纵了。一般放纵完，我就会特别后悔：我的报复呢，我的理想呢。都被我吃了，还好我这个人胃口小。吃了两三口的时候，我突然发现，这是我的理想啊！“住嘴！”，这句话从灵魂的深处，慢慢的扩散出来，直到我的天灵盖！来自灵魂的声音，绝对有穿透力。被拉回现实的我，看了看手边的书，自己的工资，自己github上的坑，自己惨不忍睹的代码。真的，我什么话也不用说了。&lt;/p&gt;
+&lt;p&gt;理想：是有理性的规划，才称之为理想。它是可以为之努力，从而实现的！&lt;/p&gt;
+&lt;p&gt;梦想：不要说，别人会当作笑话。但一定不要让自己笑话自己！&lt;/p&gt;
+&lt;p&gt;现实总是鞭打着我们前进，目标——&amp;gt;理想——&amp;gt;梦想。只要前进，马上投入进去。你就是在拉近梦想的距离，抱怨是没有用的，逃避只会加重明天的负担，放弃？你看你能说服自己放弃吗？&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;我的故事才刚开始，你的故事准备好了吗？愿意与君共勉！&lt;/p&gt;
+&lt;p&gt;最后，送上一首慢摇：&lt;a href="http://music.163.com/#/m/song?id=19892244"&gt;《New Years End》&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Thu, 24 Mar 2016 18:51:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-03-24:lazy.html</guid><category>懒</category></item><item><title>HTTP状态码大全（转自wiki）</title><link>http://blog.xueweihan.com/http-status-code.html</link><description>&lt;h2&gt;1xx消息&lt;/h2&gt;
+&lt;p&gt;这一类型的状态码，代表请求已被接受，需要继续处理。这类响应是临时响应，只包含状态行和某些可选的响应头信息，并以空行结束。由于HTTP/1.0协议中没有定义任何1xx状态码，所以除非在某些试验条件下，服务器禁止向此类客户端发送1xx响应。 这些状态码代表的响应都是信息性的，标示客户应该采取的其他行动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;100 Continue&lt;/strong&gt;&lt;br /&gt;
+客户端应当继续发送请求。这个临时响应是用来通知客户端它的部分请求已经被服务器接收，且仍未被拒绝。客户端应当继续发送请求的剩余部分，或者如果请求已经完成，忽略这个响应。服务器必须在请求完成后向客户端发送一个最终响应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;101 Switching Protocols&lt;/strong&gt;&lt;br /&gt;
+服务器已经理解了客户端的请求，并将通过Upgrade消息头通知客户端采用不同的协议来完成这个请求。在发送完这个响应最后的空行后，服务器将会切换到在Upgrade消息头中定义的那些协议。&lt;br /&gt;
+只有在切换新的协议更有好处的时候才应该采取类似措施。例如，切换到新的HTTP版本（如HTTP/2）比旧版本更有优势，或者切换到一个实时且同步的协议以传送利用此类特性的资源。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;102 Processing&lt;/strong&gt;&lt;br /&gt;
+由WebDAV扩展的状态码，代表处理将被继续执行。&lt;/p&gt;
+&lt;h2&gt;2xx成功&lt;/h2&gt;
+&lt;p&gt;这一类型的状态码，代表请求已成功被服务器接收、理解、并接受。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;200 OK&lt;/strong&gt;&lt;br /&gt;
+请求已成功，请求所希望的响应头或数据体将随此响应返回。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;201 Created&lt;/strong&gt;&lt;br /&gt;
+请求已经被实现，而且有一个新的资源已经依据请求的需要而创建，且其URI已经随Location头信息返回。假如需要的资源无法及时创建的话，应当返回'202 Accepted'。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;202 Accepted&lt;/strong&gt;&lt;br /&gt;
+服务器已接受请求，但尚未处理。正如它可能被拒绝一样，最终该请求可能会也可能不会被执行。在异步操作的场合下，没有比发送这个状态码更方便的做法了。&lt;br /&gt;
+返回202状态码的响应的目的是允许服务器接受其他过程的请求（例如某个每天只执行一次的基于批处理的操作），而不必让客户端一直保持与服务器的连接直到批处理操作全部完成。在接受请求处理并返回202状态码的响应应当在返回的实体中包含一些指示处理当前状态的信息，以及指向处理状态监视器或状态预测的指针，以便用户能够估计操作是否已经完成。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;203 Non-Authoritative Information&lt;/strong&gt;&lt;br /&gt;
+服务器已成功处理了请求，但返回的实体头部元信息不是在原始服务器上有效的确定集合，而是来自本地或者第三方的拷贝。当前的信息可能是原始版本的子集或者超集。例如，包含资源的元数据可能导致原始服务器知道元信息的超集。使用此状态码不是必须的，而且只有在响应不使用此状态码便会返回200 OK的情况下才是合适的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;204 No Content&lt;/strong&gt;&lt;br /&gt;
+服务器成功处理了请求，但不需要返回任何实体内容，并且希望返回更新了的元信息。响应可能通过实体头部的形式，返回新的或更新后的元信息。如果存在这些头部信息，则应当与所请求的变量相呼应。&lt;br /&gt;
+如果客户端是浏览器的话，那么用户浏览器应保留发送了该请求的页面，而不产生任何文档视图上的变化，即使按照规范新的或更新后的元信息应当被应用到用户浏览器活动视图中的文档。&lt;br /&gt;
+由于204响应被禁止包含任何消息体，因此它始终以消息头后的第一个空行结尾。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;205 Reset Content&lt;/strong&gt;&lt;br /&gt;
+服务器成功处理了请求，且没有返回任何内容。但是与204响应不同，返回此状态码的响应要求请求者重置文档视图。该响应主要是被用于接受用户输入后，立即重置表单，以便用户能够轻松地开始另一次输入。&lt;br /&gt;
+与204响应一样，该响应也被禁止包含任何消息体，且以消息头后的第一个空行结束。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;206 Partial Content&lt;/strong&gt;&lt;br /&gt;
+服务器已经成功处理了部分GET请求。类似于FlashGet或者迅雷这类的HTTP 下载工具都是使用此类响应实现断点续传或者将一个大文档分解为多个下载段同时下载。&lt;br /&gt;
+该请求必须包含Range头信息来指示客户端希望得到的内容范围，并且可能包含If-Range来作为请求条件。
+响应必须包含如下的头部域：
+- Content-Range用以指示本次响应中返回的内容的范围；如果是Content-Type为multipart/byteranges的多段下载，则每一multipart段中都应包含Content-Range域用以指示本段的内容范围。假如响应中包含Content-Length，那么它的数值必须匹配它返回的内容范围的真实字节数。
+- Date
+- ETag和／或Content-Location，假如同样的请求本应该返回200响应。
+- Expires, Cache-Control，和／或Vary，假如其值可能与之前相同变量的其他响应对应的值不同的话。
+假如本响应请求使用了If-Range强缓存验证，那么本次响应不应该包含其他实体头；假如本响应的请求使用了If-Range弱缓存验证，那么本次响应禁止包含其他实体头；这避免了缓存的实体内容和更新了的实体头信息之间的不一致。否则，本响应就应当包含所有本应该返回200响应中应当返回的所有实体头部域。  &lt;/p&gt;
+&lt;p&gt;假如ETag或Last-Modified头部不能精确匹配的话，则客户端缓存应禁止将206响应返回的内容与之前任何缓存过的内容组合在一起。&lt;br /&gt;
+任何不支持Range以及Content-Range头的缓存都禁止缓存206响应返回的内容。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;207 Multi-Status&lt;/strong&gt;&lt;br /&gt;
+由WebDAV扩展的状态码，代表之后的消息体将是一个XML消息，并且可能依照之前子请求数量的不同，包含一系列独立的响应代码。&lt;/p&gt;
+&lt;h2&gt;3xx重定向&lt;/h2&gt;
+&lt;p&gt;这类状态码代表需要客户端采取进一步的操作才能完成请求。通常，这些状态码用来重定向，后续的请求地址（重定向目标）在本次响应的Location域中指明。&lt;br /&gt;
+当且仅当后续的请求所使用的方法是GET或者HEAD时，用户浏览器才可以在没有用户介入的情况下自动提交所需要的后续请求。客户端应当自动监测无限循环重定向（例如：A→B→C→……→A或A→A），因为这会导致服务器和客户端大量不必要的资源消耗。按照HTTP/1.0版规范的建议，浏览器不应自动访问超过5次的重定向。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;300 Multiple Choices&lt;/strong&gt;&lt;br /&gt;
+被请求的资源有一系列可供选择的回馈信息，每个都有自己特定的地址和浏览器驱动的商议信息。用户或浏览器能够自行选择一个首选的地址进行重定向。&lt;br /&gt;
+除非这是一个HEAD请求，否则该响应应当包括一个资源特性及地址的列表的实体，以便用户或浏览器从中选择最合适的重定向地址。这个实体的格式由Content-Type定义的格式所决定。浏览器可能根据响应的格式以及浏览器自身能力，自动作出最合适的选择。当然，RFC 2616规范并没有规定这样的自动选择该如何进行。&lt;br /&gt;
+如果服务器本身已经有了首选的回馈选择，那么在Location中应当指明这个回馈的URI；浏览器可能会将这个Location值作为自动重定向的地址。此外，除非额外指定，否则这个响应也是可缓存的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;301 Moved Permanently&lt;/strong&gt;&lt;br /&gt;
+被请求的资源已永久移动到新位置，并且将来任何对此资源的引用都应该使用本响应返回的若干个URI之一。如果可能，拥有链接编辑功能的客户端应当自动把请求的地址修改为从服务器反馈回来的地址。除非额外指定，否则这个响应也是可缓存的。&lt;br /&gt;
+新的永久性的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的超链接及简短说明。&lt;br /&gt;
+如果这不是一个GET或者HEAD请求，因此浏览器禁止自动进行重定向，除非得到用户的确认，因为请求的条件可能因此发生变化。&lt;br /&gt;
+注意：对于某些使用HTTP/1.0协议的浏览器，当它们发送的POST请求得到了一个301响应的话，接下来的重定向请求将会变成GET方式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;302 Found&lt;/strong&gt;&lt;br /&gt;
+请求的资源现在临时从不同的URI响应请求。由于这样的重定向是临时的，客户端应当继续向原有地址发送以后的请求。只有在Cache-Control或Expires中进行了指定的情况下，这个响应才是可缓存的。&lt;br /&gt;
+新的临时性的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的超链接及简短说明。&lt;br /&gt;
+如果这不是一个GET或者HEAD请求，那么浏览器禁止自动进行重定向，除非得到用户的确认，因为请求的条件可能因此发生变化。&lt;br /&gt;
+注意：虽然RFC 1945和RFC 2068规范不允许客户端在重定向时改变请求的方法，但是很多现存的浏览器将302响应视作为303响应，并且使用GET方式访问在Location中规定的URI，而无视原先请求的方法。状态码303和307被添加了进来，用以明确服务器期待客户端进行何种反应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;303 See Other&lt;/strong&gt;&lt;br /&gt;
+对应当前请求的响应可以在另一个URI上被找到，而且客户端应当采用GET的方式访问那个资源。这个方法的存在主要是为了允许由脚本激活的POST请求输出重定向到一个新的资源。这个新的URI不是原始资源的替代引用。同时，303响应禁止被缓存。当然，第二个请求（重定向）可能被缓存。&lt;br /&gt;
+新的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的超链接及简短说明。&lt;br /&gt;
+注意：许多HTTP/1.1版以前的浏览器不能正确理解303状态。如果需要考虑与这些浏览器之间的互动，302状态码应该可以胜任，因为大多数的浏览器处理302响应时的方式恰恰就是上述规范要求客户端处理303响应时应当做的。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;304 Not Modified&lt;/strong&gt;&lt;br /&gt;
+如果客户端发送了一个带条件的GET请求且该请求已被允许，而文档的内容（自上次访问以来或者根据请求的条件）并没有改变，则服务器应当返回这个状态码。304响应禁止包含消息体，因此始终以消息头后的第一个空行结尾。&lt;br /&gt;
+该响应必须包含以下的头信息：
+- Date，除非这个服务器没有时钟。假如没有时钟的服务器也遵守这些规则，那么代理服务器以及客户端可以自行将Date字段添加到接收到的响应头中去（正如RFC 2068中规定的一样），缓存机制将会正常工作。
+- ETag和／或Content-Location，假如同样的请求本应返回200响应。
+- Expires, Cache-Control，和／或Vary，假如其值可能与之前相同变量的其他响应对应的值不同的话。&lt;/p&gt;
+&lt;p&gt;假如本响应请求使用了强缓存验证，那么本次响应不应该包含其他实体头；否则（例如，某个带条件的GET请求使用了弱缓存验证），本次响应禁止包含其他实体头；这避免了缓存了的实体内容和更新了的实体头信息之间的不一致。 &lt;br /&gt;
+假如某个304响应指明了当前某个实体没有缓存，那么缓存系统必须忽视这个响应，并且重复发送不包含限制条件的请求。&lt;br /&gt;
+假如接收到一个要求更新某个缓存条目的304响应，那么缓存系统必须更新整个条目以反映所有在响应中被更新的字段的值。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;305 Use Proxy&lt;/strong&gt;&lt;br /&gt;
+被请求的资源必须通过指定的代理才能被访问。Location域中将给出指定的代理所在的URI信息，接收者需要重复发送一个单独的请求，通过这个代理才能访问相应资源。只有原始服务器才能创建305响应。&lt;br /&gt;
+注意：RFC 2068中没有明确305响应是为了重定向一个单独的请求，而且只能被原始服务器建立。忽视这些限制可能导致严重的安全后果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;306 Switch Proxy&lt;/strong&gt;&lt;br /&gt;
+在最新版的规范中，306状态码已经不再被使用。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;307 Temporary Redirect&lt;/strong&gt;&lt;br /&gt;
+请求的资源现在临时从不同的URI响应请求。由于这样的重定向是临时的，客户端应当继续向原有地址发送以后的请求。只有在Cache-Control或Expires中进行了指定的情况下，这个响应才是可缓存的。&lt;br /&gt;
+新的临时性的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的超链接及简短说明。因为部分浏览器不能识别307响应，因此需要添加上述必要信息以便用户能够理解并向新的URI发出访问请求。&lt;br /&gt;
+如果这不是一个GET或者HEAD请求，那么浏览器禁止自动进行重定向，除非得到用户的确认，因为请求的条件可能因此发生变化。&lt;/p&gt;
+&lt;h2&gt;4xx客户端错误&lt;/h2&gt;
+&lt;p&gt;这类的状态码代表了客户端看起来可能发生了错误，妨碍了服务器的处理。除非响应的是一个HEAD请求，否则服务器就应该返回一个解释当前错误状况的实体，以及这是临时的还是永久性的状况。这些状态码适用于任何请求方法。浏览器应当向用户显示任何包含在此类错误响应中的实体内容。&lt;br /&gt;
+如果错误发生时客户端正在传送数据，那么使用TCP的服务器实现应当仔细确保在关闭客户端与服务器之间的连接之前，客户端已经收到了包含错误信息的数据包。如果客户端在收到错误信息后继续向服务器发送数据，服务器的TCP栈将向客户端发送一个重置数据包，以清除该客户端所有还未识别的输入缓冲，以免这些数据被服务器上的应用程序读取并干扰后者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;400 Bad Request&lt;/strong&gt;&lt;br /&gt;
+由于包含语法错误，当前请求无法被服务器理解。除非进行修改，否则客户端不应该重复提交这个请求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;401 Unauthorized&lt;/strong&gt;&lt;br /&gt;
+当前请求需要用户验证。该响应必须包含一个适用于被请求资源的WWW-Authenticate信息头用以询问用户信息。客户端可以重复提交一个包含恰当的Authorization头信息的请求。如果当前请求已经包含了Authorization证书，那么401响应代表着服务器验证已经拒绝了那些证书。如果401响应包含了与前一个响应相同的身份验证询问，且浏览器已经至少尝试了一次验证，那么浏览器应当向用户展示响应中包含的实体信息，因为这个实体信息中可能包含了相关诊断信息。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;402 Payment Required&lt;/strong&gt;&lt;br /&gt;
+该状态码是为了将来可能的需求而预留的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;403 Forbidden&lt;/strong&gt;&lt;br /&gt;
+服务器已经理解请求，但是拒绝执行它。与401响应不同的是，身份验证并不能提供任何帮助，而且这个请求也不应该被重复提交。如果这不是一个HEAD请求，而且服务器希望能够讲清楚为何请求不能被执行，那么就应该在实体内描述拒绝的原因。当然服务器也可以返回一个404响应，假如它不希望让客户端获得任何信息。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;404 Not Found&lt;/strong&gt;&lt;br /&gt;
+请求失败，请求所希望得到的资源未被在服务器上发现。没有信息能够告诉用户这个状况到底是暂时的还是永久的。假如服务器知道情况的话，应当使用410状态码来告知旧资源因为某些内部的配置机制问题，已经永久的不可用，而且没有任何可以跳转的地址。404这个状态码被广泛应用于当服务器不想揭示到底为何请求被拒绝或者没有其他适合的响应可用的情况下。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;405 Method Not Allowed&lt;/strong&gt;&lt;br /&gt;
+请求行中指定的请求方法不能被用于请求相应的资源。该响应必须返回一个Allow头信息用以表示出当前资源能够接受的请求方法的列表。&lt;br /&gt;
+鉴于PUT，DELETE方法会对服务器上的资源进行写操作，因而绝大部分的网页服务器都不支持或者在默认配置下不允许上述请求方法，对于此类请求均会返回405错误。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;406 Not Acceptable&lt;/strong&gt;&lt;br /&gt;
+请求的资源的内容特性无法满足请求头中的条件，因而无法生成响应实体。&lt;br /&gt;
+除非这是一个HEAD请求，否则该响应就应当返回一个包含可以让用户或者浏览器从中选择最合适的实体特性以及地址列表的实体。实体的格式由Content-Type头中定义的媒体类型决定。浏览器可以根据格式及自身能力自行作出最佳选择。但是，规范中并没有定义任何作出此类自动选择的标准。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;407 Proxy Authentication Required&lt;/strong&gt;&lt;br /&gt;
+与401响应类似，只不过客户端必须在代理服务器上进行身份验证。代理服务器必须返回一个Proxy-Authenticate用以进行身份询问。客户端可以返回一个Proxy-Authorization信息头用以验证。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;408 Request Timeout&lt;/strong&gt;&lt;br /&gt;
+请求超时。客户端没有在服务器预备等待的时间内完成一个请求的发送。客户端可以随时再次提交这一请求而无需进行任何更改。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;409 Conflict&lt;/strong&gt;&lt;br /&gt;
+由于和被请求的资源的当前状态之间存在冲突，请求无法完成。这个代码只允许用在这样的情况下才能被使用：用户被认为能够解决冲突，并且会重新提交新的请求。该响应应当包含足够的信息以便用户发现冲突的源头。&lt;br /&gt;
+冲突通常发生于对PUT请求的处理中。例如，在采用版本检查的环境下，某次PUT提交的对特定资源的修改请求所附带的版本信息与之前的某个（第三方）请求向冲突，那么此时服务器就应该返回一个409错误，告知用户请求无法完成。此时，响应实体中很可能会包含两个冲突版本之间的差异比较，以便用户重新提交归并以后的新版本。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;410 Gone&lt;/strong&gt;&lt;br /&gt;
+被请求的资源在服务器上已经不再可用，而且没有任何已知的转发地址。这样的状况应当被认为是永久性的。如果可能，拥有链接编辑功能的客户端应当在获得用户许可后删除所有指向这个地址的引用。如果服务器不知道或者无法确定这个状况是否是永久的，那么就应该使用404状态码。除非额外说明，否则这个响应是可缓存的。&lt;br /&gt;
+410响应的目的主要是帮助网站管理员维护网站，通知用户该资源已经不再可用，并且服务器拥有者希望所有指向这个资源的远端连接也被删除。这类事件在限时、增值服务中很普遍。同样，410响应也被用于通知客户端在当前服务器站点上，原本属于某个个人的资源已经不再可用。当然，是否需要把所有永久不可用的资源标记为'410 Gone'，以及是否需要保持此标记多长时间，完全取决于服务器拥有者。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;411 Length Required&lt;/strong&gt;&lt;br /&gt;
+服务器拒绝在没有定义Content-Length头的情况下接受请求。在添加了表明请求消息体长度的有效Content-Length头之后，客户端可以再次提交该请求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;412 Precondition Failed&lt;/strong&gt;&lt;br /&gt;
+服务器在验证在请求的头字段中给出先决条件时，没能满足其中的一个或多个。这个状态码允许客户端在获取资源时在请求的元信息（请求头字段数据）中设置先决条件，以此避免该请求方法被应用到其希望的内容以外的资源上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;413 Request Entity Too Large&lt;/strong&gt;&lt;br /&gt;
+服务器拒绝处理当前请求，因为该请求提交的实体数据大小超过了服务器愿意或者能够处理的范围。此种情况下，服务器可以关闭连接以免客户端继续发送此请求。&lt;br /&gt;
+如果这个状况是临时的，服务器应当返回一个Retry-After的响应头，以告知客户端可以在多少时间以后重新尝试。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;414 Request-URI Too Long&lt;/strong&gt;&lt;br /&gt;
+请求的URI长度超过了服务器能够解释的长度，因此服务器拒绝对该请求提供服务。这比较少见，通常的情况包括：&lt;/p&gt;
+&lt;p&gt;本应使用POST方法的表单提交变成了GET方法，导致查询字符串（Query String）过长。
+重定向URI“黑洞”，例如每次重定向把旧的URI作为新的URI的一部分，导致在若干次重定向后URI超长。
+客户端正在尝试利用某些服务器中存在的安全漏洞攻击服务器。这类服务器使用固定长度的缓冲读取或操作请求的URI，当GET后的参数超过某个数值后，可能会产生缓冲区溢出，导致任意代码被执行[1]。没有此类漏洞的服务器，应当返回414状态码。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;415 Unsupported Media Type&lt;/strong&gt;&lt;br /&gt;
+对于当前请求的方法和所请求的资源，请求中提交的实体并不是服务器中所支持的格式，因此请求被拒绝。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;416 Requested Range Not Satisfiable&lt;/strong&gt;&lt;br /&gt;
+如果请求中包含了Range请求头，并且Range中指定的任何数据范围都与当前资源的可用范围不重合，同时请求中又没有定义If-Range请求头，那么服务器就应当返回416状态码。&lt;br /&gt;
+假如Range使用的是字节范围，那么这种情况就是指请求指定的所有数据范围的首字节位置都超过了当前资源的长度。服务器也应当在返回416状态码的同时，包含一个Content-Range实体头，用以指明当前资源的长度。这个响应也被禁止使用multipart/byteranges作为其Content-Type。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;417 Expectation Failed&lt;/strong&gt;&lt;br /&gt;
+在请求头Expect中指定的预期内容无法被服务器满足，或者这个服务器是一个代理服务器，它有明显的证据证明在当前路由的下一个节点上，Expect的内容无法被满足。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;418 I'm a teapot&lt;/strong&gt;&lt;br /&gt;
+本操作码是在1998年作为IETF的传统愚人节笑话, 在RFC 2324 超文本咖啡壶控制协议中定义的，并不需要在真实的HTTP服务器中定义。当一个控制茶壶的HTCPCP收到BREW或POST指令要求其煮咖啡时应当回传此错误。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;421 There are too many connections from your internet address&lt;/strong&gt;&lt;br /&gt;
+从当前客户端所在的IP地址到服务器的连接数超过了服务器许可的最大范围。通常，这里的IP地址指的是从服务器上看到的客户端地址（比如用户的网关或者代理服务器地址）。在这种情况下，连接数的计算可能涉及到不止一个终端用户。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;422 Unprocessable Entity&lt;/strong&gt;&lt;br /&gt;
+请求格式正确，但是由于含有语义错误，无法响应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;423 Locked&lt;/strong&gt;&lt;br /&gt;
+当前资源被锁定。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;424 Failed Dependency&lt;/strong&gt;&lt;br /&gt;
+由于之前的某个请求发生的错误，导致当前请求失败，例如PROPPATCH。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;425 Unordered Collection&lt;/strong&gt;&lt;br /&gt;
+在WebDav Advanced Collections草案中定义，但是未出现在《WebDAV顺序集协议》中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;426 Upgrade Required&lt;/strong&gt;&lt;br /&gt;
+客户端应当切换到TLS/1.0。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;449 Retry With&lt;/strong&gt;&lt;br /&gt;
+由微软扩展，代表请求应当在执行完适当的操作后进行重试。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;451 Unavailable For Legal Reasons&lt;/strong&gt;&lt;br /&gt;
+由IETF核准，代表该访问因法律的要求而被拒绝。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5xx服务器错误&lt;/strong&gt;&lt;br /&gt;
+这类状态码代表了服务器在处理请求的过程中有错误或者异常状态发生，也有可能是服务器意识到以当前的软硬件资源无法完成对请求的处理。除非这是一个HEAD请求，否则服务器应当包含一个解释当前错误状态以及这个状况是临时的还是永久的解释信息实体。浏览器应当向用户展示任何在当前响应中被包含的实体。&lt;br /&gt;
+这些状态码适用于任何响应方法。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;500 Internal Server Error&lt;/strong&gt;&lt;br /&gt;
+服务器遇到了一个未曾预料的状况，导致了它无法完成对请求的处理。一般来说，这个问题都会在服务器的程序码出错时出现。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;501 Not Implemented&lt;/strong&gt;&lt;br /&gt;
+服务器不支持当前请求所需要的某个功能。当服务器无法识别请求的方法，并且无法支持其对任何资源的请求。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;502 Bad Gateway&lt;/strong&gt;&lt;br /&gt;
+作为网关或者代理工作的服务器尝试执行请求时，从上游服务器接收到无效的响应。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;503 Service Unavailable&lt;/strong&gt;&lt;br /&gt;
+由于临时的服务器维护或者过载，服务器当前无法处理请求。这个状况是临时的，并且将在一段时间以后恢复。如果能够预计延迟时间，那么响应中可以包含一个Retry-After头用以标明这个延迟时间。如果没有给出这个Retry-After信息，那么客户端应当以处理500响应的方式处理它。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;504 Gateway Timeout&lt;/strong&gt;&lt;br /&gt;
+作为网关或者代理工作的服务器尝试执行请求时，未能及时从上游服务器（URI标识出的服务器，例如HTTP、FTP、LDAP）或者辅助服务器（例如DNS）收到响应。&lt;br /&gt;
+注意：某些代理服务器在DNS查询超时时会返回400或者500错误。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;505 HTTP Version Not Supported&lt;/strong&gt;&lt;br /&gt;
+服务器不支持，或者拒绝支持在请求中使用的HTTP版本。这暗示着服务器不能或不愿使用与客户端相同的版本。响应中应当包含一个描述了为何版本不被支持以及服务器支持哪些协议的实体。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;506 Variant Also Negotiates&lt;/strong&gt;&lt;br /&gt;
+由《透明内容协商协议》扩展，代表服务器存在内部配置错误：被请求的协商变元资源被配置为在透明内容协商中使用自己，因此在一个协商处理中不是一个合适的重点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;507 Insufficient Storage&lt;/strong&gt;&lt;br /&gt;
+服务器无法存储完成请求所必须的内容。这个状况被认为是临时的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;509 Bandwidth Limit Exceeded&lt;/strong&gt;&lt;br /&gt;
+服务器达到带宽限制。这不是一个官方的状态码，但是仍被广泛使用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;510 Not Extended&lt;/strong&gt;&lt;br /&gt;
+获取资源所需要的策略并没有被满足。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Wed, 23 Mar 2016 21:16:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-03-23:http-status-code.html</guid><category>http</category><category>web基础</category></item><item><title>Python pip install mysql-connector-python 2.0.1 失败</title><link>http://blog.xueweihan.com/python-pip-install-mysql-connector-python-fail.html</link><description>&lt;h1&gt;Python pip install mysql-connector-python 2.0.1 失败&lt;/h1&gt;
+&lt;p&gt;如图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="错误展示" src="http://7xqirw.com1.z0.glb.clouddn.com/759200-20160119121143078-554548811.png" /&gt;&lt;/p&gt;
+&lt;p&gt;尝试了：pip install mysql-connector-python==2.0.1错误依旧&lt;/p&gt;
+&lt;p&gt;解决方法：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;wget https://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-2.0.3.zip
+
+unzip mysql-connector-python-2.0.3.zip
+
+&lt;span class="nb"&gt;cd&lt;/span&gt; mysql-connector-python-2.0.3
+
+python setup.py install
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;参照:&lt;a href="http://stackoverflow.com/questions/27394426/python-pip-install-mysql-connector-python-2-0-1-fails"&gt;stackoverflow&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Tue, 22 Mar 2016 22:16:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-03-22:python-pip-install-mysql-connector-python-fail.html</guid><category>python</category><category>mysql-connector-python</category></item><item><title>Python抽象方法实现</title><link>http://blog.xueweihan.com/python-abstract-method.html</link><description>&lt;h2&gt;抽象方法&lt;/h2&gt;
+&lt;p&gt;我的理解抽象方法就是：父类的一个方法，继承的所有子类都必须要实现这个方法，否则报错。&lt;/p&gt;
+&lt;h2&gt;举例说明&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Base&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;_method&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;raise&lt;/span&gt; &lt;span class="ne"&gt;NotImplementedError&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;u&amp;quot;出错了，你没有实现这个抽象方法&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;A&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Base&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;_method&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s2"&gt;u&amp;quot;重写了这个方法，就不会报错了！&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;这个例子，实现了抽象方法的功能。还有一个更加pythonic的方法，就是用&lt;code&gt;abc.ABCMeta&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;ABCMeta&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;abc&lt;/span&gt;
+&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Base&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="n"&gt;__metaclass__&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;abc&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ABCMeta&lt;/span&gt;
+
+    &lt;span class="nd"&gt;@abc.abstractmethod&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;_method&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;父类通过定义&lt;code&gt;__metaclass__ = abc.ABCMeta&lt;/code&gt;，然后通过&lt;code&gt;@abc.abstractmethod&lt;/code&gt;装饰器修饰的方法，就变成了抽象方法了。如果子类不实现就会报错。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Mon, 21 Mar 2016 22:16:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-03-21:python-abstract-method.html</guid><category>python</category><category>抽象方法</category></item><item><title>Python内建方法学习笔记</title><link>http://blog.xueweihan.com/python-build-in-func.html</link><description>&lt;h1&gt;撸一遍python的内建方法&lt;/h1&gt;
+&lt;p&gt;这样做的好处就是：我如果要完成一个功能的时候，如果能用内建方法完成，就用内建方法。这样可以提高效率，同时使自己的代码更加优雅。哎呦？那岂不是撸完就是python高手了？我先帮大家试试效果，请静候我的反馈！&lt;/p&gt;
+&lt;p&gt;反馈：内建方法全部看完了，并敲完所有的内建方法，收获还是有的，但是发现不了解的知识更多了。内建方法属于python的标准库中的一章。python的标准库中还有很多值得一看的章节。&lt;a href="http://python.usyiyi.cn/python_278/library/index.html"&gt;python2.7.8中文标准库文档&lt;/a&gt;，这些内容我粗略的看了一遍。这个内建方法的学习笔记我周三就写完了，本来想在写内建类型的学习笔记。但是发现太多了！而且我发现，看的太多记下的东西就会变少，所以我打算把重心转移到我自己练手的项目中（现在还没什么值得分享的东西，等拿得出手肯定会告诉大家的）。我想把学习标准库中收获的技巧用到我的项目中，这样学以致用才能真正融汇贯通。这就是我的下一步学习计划：通过实际项目，运用python标准库中的技巧！&lt;/p&gt;
+&lt;p&gt;结论就是：看完标准库我还没有成为高手，但是我收获了很多知识，基础牢固了一些。下一步打算在我自己的项目中运用这些技巧，提高自己的能力和技术！&lt;/p&gt;
+&lt;p&gt;相关资料
+- &lt;a href="https://docs.python.org/2/library/functions.html#all" title="官方文档－英文"&gt;官方文档－内建方法(英文)－2.7.11&lt;/a&gt;
+- &lt;a href="http://python.usyiyi.cn/python_278/library/functions.html" title="官方文档－中文"&gt;官方文档－内建方法(中文)－2.7.8&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;内建方法&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;常用内建方法&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align="left"&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#all"&gt;all&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="＃divmod"&gt;divmod&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#input"&gt;input&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#open"&gt;open&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#staticmethod"&gt;staticmethod&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#abs"&gt;abs&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#enumerate"&gt;enumerate&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#int"&gt;int&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#ord"&gt;ord&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#str"&gt;str&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#any"&gt;any&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#eval"&gt;eval&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#isinstance"&gt;isinstance&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#pow"&gt;pow&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#sum"&gt;sum&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#basestring"&gt;basestring&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#execfile"&gt;execfile&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#issubclass"&gt;issubclass&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#print"&gt;print&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#super"&gt;super&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#bin"&gt;bin&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#file"&gt;file&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#iter"&gt;iter&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#property"&gt;property&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#tuple"&gt;tuple&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#bool"&gt;bool&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#filter"&gt;filter&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#len"&gt;len&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#range"&gt;range&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#type"&gt;type&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#bytearray"&gt;bytearray&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#float"&gt;float&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#list"&gt;list&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#raw_input"&gt;raw_input&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#unichr"&gt;unichr&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#callable"&gt;callable&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#format"&gt;format&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#locals"&gt;locals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#reduce"&gt;reduce&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#unicode"&gt;unicode&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#chr"&gt;chr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#frozenset"&gt;frozenset&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#long"&gt;long&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#reload"&gt;reload&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#vars"&gt;vars&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#classmethod"&gt;classmethod&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#getattr"&gt;getattr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#map"&gt;map&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#repr"&gt;repr&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#xrange"&gt;xrange&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#cmp"&gt;cmp&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#globals"&gt;globals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#max"&gt;max&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#reversed"&gt;reversed&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#zip"&gt;zip&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#compile"&gt;compile&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#hasattr"&gt;hasattr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#memoryview"&gt;memoryview&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#round"&gt;round&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#__import__"&gt;&lt;strong&gt;import&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#complex"&gt;complex&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#hash"&gt;hash&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#min"&gt;min&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#set"&gt;set&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#apply"&gt;apply&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#delattr"&gt;delattr&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#help"&gt;help&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#next"&gt;next&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#setattr"&gt;setattr&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#buffer"&gt;buffer&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#dict"&gt;dict&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#hex"&gt;hex&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#object"&gt;object&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#slice"&gt;slice&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#coerce"&gt;coerce&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="#dir"&gt;dir&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#id"&gt;id&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#oct"&gt;oct&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="#sorted"&gt;sorted&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;&lt;a href="#intern"&gt;intern&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;说明&lt;/strong&gt;:&lt;code&gt;[,xxx]&lt;/code&gt;表示为可选参数。&lt;/p&gt;
+&lt;p&gt;&lt;span id="abs"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;abs(x)&lt;/h4&gt;
+&lt;p&gt;返回x的绝对值，例如：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;abs&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mf"&gt;1.23&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# 1.23&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="all"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;all(iterable)&lt;/h4&gt;
+&lt;p&gt;如果iterable(迭代对象)的所有元素为真（或者iterable为空：[],'',()等），返回True。例如：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;all&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;span class="nb"&gt;all&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt; &lt;span class="c1"&gt;# False&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="any"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;any(iterable)&lt;/h4&gt;
+&lt;p&gt;如果iterable中只要又一个元素为真，就返回True。例如：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;any&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="basestring"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;basestring()&lt;/h4&gt;
+&lt;p&gt;它是str和unicode的超类，不能被调用或者实例化。只能用来测试一个对象是不是str或unicode的实例。例如：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;u&amp;#39;a&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;b&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;b&amp;#39;&lt;/span&gt;
+&lt;span class="nb"&gt;isinstance&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;basestring&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;span class="nb"&gt;isinstance&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;basestring&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="bin"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;bin()&lt;/h4&gt;
+&lt;p&gt;将&lt;strong&gt;整数&lt;/strong&gt;转成二进制&lt;strong&gt;字符串&lt;/strong&gt;。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;bin&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# &amp;#39;0b11&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="bool"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;bool()&lt;/h4&gt;
+&lt;p&gt;将一个值转化成布尔值。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;bool&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;span class="nb"&gt;bool&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;span class="nb"&gt;bool&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# False&lt;/span&gt;
+&lt;span class="nb"&gt;bool&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39; &amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;span class="nb"&gt;bool&lt;/span&gt;&lt;span class="p"&gt;([])&lt;/span&gt; &lt;span class="c1"&gt;# False&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="bytearray"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;bytearray()&lt;/h4&gt;
+&lt;p&gt;结合memoryview，实现改变str类型对象的值。请移步&lt;a href="http://python.usyiyi.cn/python_278/library/stdtypes.html#memoryview-type"&gt;python内建类型&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="callable"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;callable(object)&lt;/h4&gt;
+&lt;p&gt;如果object参数可调用，返回True；否则返回False。对类的调用，返回一个新的实例。对于实例，如果实例有&lt;strong&gt;call&lt;/strong&gt;方法，则该实例也是可以调用的。例如：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;TestCallable&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;__init__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;pass&lt;/span&gt;
+
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;__call__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;pass&lt;/span&gt;
+
+&lt;span class="nb"&gt;callable&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;TestCallable&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;span class="nb"&gt;callable&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;TestCallable&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt; &lt;span class="c1"&gt;# True&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="chr"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;chr(i)&lt;/h4&gt;
+&lt;p&gt;返回一个字符，该字符的&lt;a href="http://www.asciitable.com/" title="ASCII表"&gt;ASCII&lt;/a&gt;码为整数i。i的取值范围：0 &amp;lt;= x &amp;lt; 255&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;chr&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# &amp;#39;d&amp;#39;&lt;/span&gt;
+&lt;span class="nb"&gt;ord&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;d&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# 100&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="classmethod"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;classmethod(functions)&lt;/h4&gt;
+&lt;p&gt;将传入的方法包装成类方法（类方法是指，类不需要实力化就可以直接调用的方法）。
+类方法的第一个参数必须为类（约定俗称用cls代表），实例方法的第一个参数必须为实例（约定俗称为self），这两种接收参数的方法叫做：隐式第一参数（implicit first argument）。静态方法（通过@staticmethod装饰的方法)不需要如上述两个方法的隐式参数。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;C&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nd"&gt;@classmethod&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;f&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;cls&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;arg1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;arg2&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;pass&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;注意：通过@classmethod修饰的方法，为类方法。类可以直接调用（如C.f())；实例也可以直接调用（如C().f())，切记类方法中不能操作实例的属性。如果子类调用类方法，子类对象被传递为隐式的第一个参数（也就是cls为子类对象）。&lt;/p&gt;
+&lt;p&gt;&lt;span id="cmp"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;cmp(x, y)&lt;/h4&gt;
+&lt;p&gt;比较两个对象x和y，当&lt;code&gt;x &amp;lt; y&lt;/code&gt;返回'-1'；&lt;code&gt;x &amp;gt; y&lt;/code&gt;返回'1';&lt;code&gt;x == y&lt;/code&gt;返回0&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;cmo&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# -1&lt;/span&gt;
+&lt;span class="nb"&gt;cmp&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# 1&lt;/span&gt;
+&lt;span class="nb"&gt;cmp&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# 0&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;注意：&lt;code&gt;bool(-1)&lt;/code&gt;结果为True&lt;/p&gt;
+&lt;p&gt;&lt;span id="compile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;compile(source, filename, mode)&lt;/h4&gt;
+&lt;p&gt;compile可以将字符串或者Unicode字符串编译成代码对象。代码对象可以通过&lt;code&gt;exec&lt;/code&gt;或&lt;code&gt;eval&lt;/code&gt;执行。
+- 参数source：字符串或者AST（Abstract Syntax Trees）对象。
+- 参数 filename：代码文件名称，如果不是从文件读取代码则传递一些可辨认的值。
+- 参数model：指定编译代码的种类。可以指定为 ‘exec’,’eval’,’single’。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;source&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;if cmp(1, 1)==0: print &amp;#39;yes&amp;#39;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;test_compile&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;compile&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;source&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;exec&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;exec&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;test_compile&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#yes&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;注意：source是字符串，要注意引号和双引号，最后指定什么model，就用那种方法执行。compile返回的类型是&lt;code&gt;code&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;span id="complex"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;complex(str)&lt;/h4&gt;
+&lt;p&gt;创建一个复数。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;complex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;1+2j&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;#可行&lt;/span&gt;
+&lt;span class="nb"&gt;complex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;1 + 2j&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;#报错(因为字符串中&amp;#39;+&amp;#39;或者&amp;#39;-&amp;#39;两遍不能有空白)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="delattr"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;delattr(object, name)&lt;/h4&gt;
+&lt;p&gt;参数是一个对象和一个字符串(&lt;code&gt;name&lt;/code&gt;为字符串类型)，字符串必须是该对象的某个属性名。效果是：删除该对象的name对应的属性。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Test&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;__init__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;XueWeiHan&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;test_delatter&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;Test&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;test_delatter&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt; &lt;span class="c1"&gt;# XueWeiHan&lt;/span&gt;
+&lt;span class="nb"&gt;delattr&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;test_delatter&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;name&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;test_delatter&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt; &lt;span class="c1"&gt;# 报错，没有name属性，删除成功&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="dict"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;dict()&lt;/h4&gt;
+&lt;p&gt;创建一个新字典。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;dict&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;# {&amp;#39;a&amp;#39;: 1}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="dir"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;dir(object)&lt;/h3&gt;
+&lt;p&gt;如果没有参数，返回当前本地作用域的名字列表。如果有参数，返回该参数的属性列表(属性和方法)。
+如果类中定义了__dir__方法，则&lt;code&gt;dir()&lt;/code&gt;会先默认从__dict__属性中收集信息。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;time&lt;/span&gt;
+&lt;span class="nb"&gt;type&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;# model&lt;/span&gt;
+&lt;span class="nb"&gt;dir&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;   &lt;span class="c1"&gt;# [&amp;#39;__doc__&amp;#39;,&amp;#39;__file__&amp;#39;,...,&amp;#39;sleep&amp;#39;,&amp;#39;strftime&amp;#39;,]就是time.可以调用的属性和方法&lt;/span&gt;
+&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;TestDir&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;__dir__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;TestDir1&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;TestDir2&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="nb"&gt;dir&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;TestDir&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;# [&amp;#39;TestDir1&amp;#39;, &amp;#39;TestDir2&amp;#39;]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;注意：dir()主要是方便交互环境&lt;/p&gt;
+&lt;p&gt;&lt;span id="divmod"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;divmod(a, b)&lt;/h3&gt;
+&lt;p&gt;效果：a除以b，返回商和余数的二元组（两个数组成的元组）&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;divmod&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#(2, 1)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="enumerate"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;enumerate(sequence, start=0)&lt;/h3&gt;
+&lt;p&gt;返回一个枚举对象。sequence必须是序列，迭代器iterator，或者支持迭代的对象：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;迭代器Iterators:
+迭代器仅是一容器对象，它实现了迭代器协议。它有两个基本方法：
+1）next方法
+返回容器的下一个元素
+2）__iter__方法
+返回迭代器自身&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;names&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Xuweihan&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;James&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Kobe&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="n"&gt;enumerate_data&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;names&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;start&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#这是个枚举类型数据&lt;/span&gt;
+&lt;span class="nb"&gt;list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;enumerate_data&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#[(0, &amp;#39;Xuweihan&amp;#39;), (1, &amp;#39;James&amp;#39;), (2, &amp;#39;Kobe&amp;#39;)]&lt;/span&gt;
+
+&lt;span class="nb"&gt;list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;enumerate&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;names&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;  &lt;span class="c1"&gt;#[(1, &amp;#39;Xuweihan&amp;#39;), (2, &amp;#39;James&amp;#39;), (3, &amp;#39;Kobe&amp;#39;)]&lt;/span&gt;
+
+&lt;span class="c1"&gt;# 实现&lt;/span&gt;
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;enumerate&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sequence&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;start&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;start&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;elem&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;sequence&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;yield&lt;/span&gt; &lt;span class="n"&gt;n&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;elem&lt;/span&gt;
+        &lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="o"&gt;+=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：enumerate是生成器，惰性计算。可以调用next()&lt;/p&gt;
+&lt;p&gt;&lt;span id="eval"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;eval(expression[,globals()[,locals()]])&lt;/h3&gt;
+&lt;p&gt;expression参数被当作python表达式执行。使用&lt;code&gt;globals()&lt;/code&gt;和&lt;code&gt;locals()&lt;/code&gt;指定执行的代码中变量是全局变量还是本地变量。代码例子如下：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;  &lt;span class="c1"&gt;#全局变量&lt;/span&gt;
+
+&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;add_one&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;  &lt;span class="c1"&gt;#本地变量&lt;/span&gt;
+    &lt;span class="nb"&gt;eval&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;a+1&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;globals&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt;  &lt;span class="c1"&gt;#结果为 2&lt;/span&gt;
+    &lt;span class="nb"&gt;eval&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;a+1&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;locals&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt;  &lt;span class="c1"&gt;#结果为 3&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="execfile"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;execfile(filename[,globals[,locals]])&lt;/h3&gt;
+&lt;p&gt;该函数类似exec（上面的那个），不同的是他解析一个&lt;strong&gt;文件&lt;/strong&gt;，而不是字符串。它不同与__import__语句的地方在于，它不使用模块管理——它无条件的读入文件且不会创建一个新模块。
+(&lt;strong&gt;不常用&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;span id="file"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;file()&lt;/h3&gt;
+&lt;p&gt;file类型的构造函数。打开一个文件的时候，建议使用&lt;a href="#open"&gt;open()&lt;/a&gt;而不使用&lt;code&gt;file()&lt;/code&gt;。&lt;code&gt;file&lt;/code&gt;更适合类型检测例如：&lt;code&gt;isinstance(f, file)&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;span id="filter"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;filter(functions, iterable)&lt;/h3&gt;
+&lt;p&gt;构造一个列表，列表的元素来自于iterable，返回对于这些元素function返回&lt;code&gt;True&lt;/code&gt;的元素。iterable可以是个序列，支持迭代的容器或者一个迭代器。
+filter函数相当于过滤，返回符合functions的列表中的元素。带判断的列表生成式:&lt;code&gt;[i for i in list if i]&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;test_list&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;python&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;ruby&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;node.js&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="n"&gt;result&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;filter&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;python&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;test_list&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="err"&gt;＃结果：&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;python&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="float"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;float()&lt;/h3&gt;
+&lt;p&gt;将字符串或者数字转化成浮点数。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;.3333&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#0.3333&lt;/span&gt;
+&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;a.333&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#报错&lt;/span&gt;
+&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#1.0&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="format"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;format(value[,format_spec])&lt;/h3&gt;
+&lt;p&gt;将value转化成“格式化”的表现形式，格式由&lt;code&gt;format_spec&lt;/code&gt;控制。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;_string&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;{name} is a pythoner&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Xueweihan&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="n"&gt;_string&lt;/span&gt;  &lt;span class="c1"&gt;# &amp;#39;Xueweihan is a pythoner&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="frozenset"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;frozenset()&lt;/h3&gt;
+&lt;p&gt;返回一个新的forzenset对象。就是一个不可变的集合，所以存在哈希值，可以作为字典的key。
+&lt;strong&gt;注意&lt;/strong&gt;：python的集合类型不支持整数。&lt;/p&gt;
+&lt;p&gt;&lt;span id="getattr"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;getattr(object, name[,default])&lt;/h3&gt;
+&lt;p&gt;返回object的属性值。name必须是个字符串。如果名字指明的属性不存在，则返回default参数。&lt;/p&gt;
+&lt;p&gt;例如：&lt;code&gt;getattr(x, 'test')&lt;/code&gt;等于x.test。&lt;/p&gt;
+&lt;p&gt;&lt;span id="globals"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;globals()&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;globals(x)&lt;/code&gt;，x成为全局变量。&lt;/p&gt;
+&lt;p&gt;&lt;span id="hasattr"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;hasattr(object, name)&lt;/h3&gt;
+&lt;p&gt;参数是一个对象和一个字符串。如果对象含有该属性则返回True；否则返回False。&lt;/p&gt;
+&lt;p&gt;&lt;span id="hash"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;hash(object)&lt;/h3&gt;
+&lt;p&gt;返回对象的hash值。hash值是整数，它被用于字典查找时快速比较字典的键。相同的数值有相同的hash（例如：1和1.0的hash值相同）&lt;/p&gt;
+&lt;p&gt;&lt;span id="help"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;help([object])&lt;/h3&gt;
+&lt;p&gt;调用帮助系统（主要用于交互式的使用过程中）。如果没有指定object的话，则进入交互式的help帮助系统。&lt;/p&gt;
+&lt;p&gt;&lt;span id="hex"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;hex()&lt;/h3&gt;
+&lt;p&gt;将number类型的数据，转化成“0x”打头小写的十六进制字符串：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;hex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;33&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#&amp;#39;-0x21&amp;#39;&lt;/span&gt;
+
+&lt;span class="c1"&gt;#float类型数据&lt;/span&gt;
+&lt;span class="nb"&gt;float&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;hex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.32&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#&amp;#39;0x1.47ae147ae147bp-2&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="id"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;id(object)&lt;/h3&gt;
+&lt;p&gt;返回对象的“表示”，这是一个整数，在对象的生命期内&lt;strong&gt;唯一且不变&lt;/strong&gt;。&lt;br /&gt;
+&lt;strong&gt;注意&lt;/strong&gt;：CPython中：id就是对象的内存地址。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;id&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;33&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;# 140300932661128&lt;/span&gt;
+
+&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;33&lt;/span&gt;
+&lt;span class="nb"&gt;id&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;# 140300932661128&lt;/span&gt;
+
+&lt;span class="n"&gt;b&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;33&lt;/span&gt;
+&lt;span class="nb"&gt;id&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;# 140300932661128&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="input"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;input()&lt;/h3&gt;
+&lt;p&gt;获取用户的输入。&lt;/p&gt;
+&lt;p&gt;建议用：raw_input&lt;/p&gt;
+&lt;p&gt;&lt;span id="int"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;int(x, base=10)&lt;/h3&gt;
+&lt;p&gt;将数字或字符串x转化成一个整数，如果没有参数则返回0。&lt;/p&gt;
+&lt;p&gt;&lt;span id="isinstance"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;isinstance(object, classinfo)&lt;/h3&gt;
+&lt;p&gt;如果参数object是参数classinfo的一个实例；或者是一个子类的实例，最终返回真。&lt;/p&gt;
+&lt;p&gt;推荐使用这个而不是用type进行判断。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;isinstance&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#True&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="issubclass"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;issubclass(class, classinfo)&lt;/h3&gt;
+&lt;p&gt;如果class是classinfo的子类，则返回真。&lt;/p&gt;
+&lt;p&gt;&lt;span id="iter"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;iter(o[,sentinel])&lt;/h3&gt;
+&lt;p&gt;返回一个iterator(迭代器)对象。如果没有第二个参数，o必须是个集合独享，要么支持迭代协议&lt;a href="#enumerate"&gt;参考&lt;/a&gt;，要么支持序列协议。例如：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;]:&lt;/span&gt;
+    &lt;span class="k"&gt;pass&lt;/span&gt;
+
+&lt;span class="c1"&gt;#等同于&lt;/span&gt;
+&lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;iter&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+
+&lt;span class="k"&gt;while&lt;/span&gt; &lt;span class="bp"&gt;True&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;try&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;next&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="k"&gt;except&lt;/span&gt; &lt;span class="ne"&gt;StopIteration&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="k"&gt;break&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;如果有第二个参数sentinel，o必须是个可调用对象。使用场景：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# 读取一个文件的行，直到读到特定行&lt;/span&gt;
+&lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="nb"&gt;open&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;test.txt&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;as&lt;/span&gt; &lt;span class="n"&gt;fp&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;iter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;fp&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;readline&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="n"&gt;process_line&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;line&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="len"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;len(s)&lt;/h3&gt;
+&lt;p&gt;返回对象的长度（元素的个数）。s可以是：序列或者集合。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;xueweihan&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#9&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="list"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;list([iterable])&lt;/h3&gt;
+&lt;p&gt;返回一个列表，其中的元素来自于iterable。iterable可以是个序列，支持迭代的容器，或者迭代器对象。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;xueweihan&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#[&amp;#39;x&amp;#39;, &amp;#39;u&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;w&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;i&amp;#39;, &amp;#39;h&amp;#39;, &amp;#39;a&amp;#39;, &amp;#39;n&amp;#39;]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="locals"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;locals()&lt;/h3&gt;
+&lt;p&gt;把传入的变量，修饰成局部变量。&lt;/p&gt;
+&lt;p&gt;&lt;span id="long"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;long()&lt;/h3&gt;
+&lt;p&gt;将一个字符串或者数字传化成一个长整数。&lt;/p&gt;
+&lt;p&gt;&lt;span id="map"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;map()&lt;/h3&gt;
+&lt;p&gt;遍历iterable的每个元素，并把元素作为参数传入function，返回结果的列表。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;add_two&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;num&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;num&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;
+&lt;span class="n"&gt;num_list&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="nb"&gt;map&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;add_two&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;num_list&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;#[3,4,5,6,7]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="max"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;max()&lt;/h3&gt;
+&lt;p&gt;返回可迭代的对象中最大的元素。&lt;/p&gt;
+&lt;p&gt;&lt;span id="memoryview"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;memoryview()&lt;/h3&gt;
+&lt;p&gt;返回memoryview对象，它允许Python代码访问对象的内部数据而不用复制，只要该对象支持缓冲区协议。
+如有疑问请参考&lt;a href="http://python.usyiyi.cn/python_278/library/stdtypes.html#memoryview-type"&gt;python内建类型memoryview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="min"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;min()&lt;/h3&gt;
+&lt;p&gt;返回可迭代的对象中的最小的元素。&lt;/p&gt;
+&lt;p&gt;&lt;span id="next"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;next(iterator[,default])&lt;/h3&gt;
+&lt;p&gt;通过调用iterator(迭代器)的next()方法，得到它的下一个元素。如果有default参数，在迭代器迭代完之后返回该参数；否则抛出StopIteration。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;test_next_data&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;iter&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="nb"&gt;next&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;test_next_data&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Done&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#1&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="nb"&gt;next&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;test_next_data&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Done&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#2&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="nb"&gt;next&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;test_next_data&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Done&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#3&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="nb"&gt;next&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;test_next_data&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Done&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#Done&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;:通过&lt;code&gt;iter()&lt;/code&gt;返回的就是迭代器。&lt;/p&gt;
+&lt;p&gt;&lt;span id="object"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;object()&lt;/h3&gt;
+&lt;p&gt;object是所有新式类的基类&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;A&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;pass&lt;/span&gt;
+&lt;span class="c1"&gt;#继承于object的类为新式类&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="oct"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;oct()&lt;/h3&gt;
+&lt;p&gt;将任意一个整数转成一个八进制字符串。&lt;/p&gt;
+&lt;p&gt;&lt;span id="open"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;open(name, [,mode[,buffering]])&lt;/h3&gt;
+&lt;p&gt;打开文件的方法，返回一个file类型对象。如果文件不能打开抛出IOError。&lt;br /&gt;
+mode：用什么方式打开文件。'r'读文件；'w'写文件；'a'附加。如果没有mode，默认是'r'。
+buffering: 缓冲&lt;/p&gt;
+&lt;p&gt;&lt;span id="ord"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;ord()&lt;/h3&gt;
+&lt;p&gt;参考：&lt;a href="#chr"&gt;chr()&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;:如果是unicode,则返回unicode码&lt;/p&gt;
+&lt;p&gt;&lt;span id="pow"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;pow(x, y[,z])&lt;/h3&gt;
+&lt;p&gt;返回x的y次幂：&lt;code&gt;x**y&lt;/code&gt;&lt;br /&gt;
+如果有z参数：&lt;code&gt;(x**y) % z&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="print"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;print()&lt;/h3&gt;
+&lt;p&gt;这个方法可以输出内容到file对象。&lt;br /&gt;
+&lt;strong&gt;注意&lt;/strong&gt;:不常用，为了使print语句失效，而是用print()函数。（print和print()不是一个东西）可以在你的模块上面使用future语句：&lt;code&gt;from __future__ import print_function&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="property"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;property()&lt;/h3&gt;
+&lt;p&gt;property其实就是个控制属性的权限的方法。同时实现，经property装饰的方法，可通过&lt;code&gt;Object.xxx&lt;/code&gt;调用属性，把实例方法，变成实例的属性。这样做的好处是：可以在方法中实现限制条件，同时限制可执行的操作。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Student&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;__init__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;_name&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="bp"&gt;None&lt;/span&gt;
+    &lt;span class="nd"&gt;@property&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;name&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;_name&lt;/span&gt;
+    &lt;span class="nd"&gt;@name.setter&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;name&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;value&lt;/span&gt; &lt;span class="o"&gt;!=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;xueweihan&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+        &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;_name&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;value&lt;/span&gt;
+    &lt;span class="nd"&gt;@name.deleter&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;name&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;del name!&amp;#39;&lt;/span&gt;
+        &lt;span class="k"&gt;del&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;_name&lt;/span&gt;
+&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;Student&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;aaa&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;  &lt;span class="c1"&gt;#赋值成功&amp;#39;aaa&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;xueweihan&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;  &lt;span class="c1"&gt;#赋值失败&amp;#39;aaa&amp;#39;&lt;/span&gt;
+&lt;span class="k"&gt;del&lt;/span&gt; &lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;  &lt;span class="c1"&gt;#‘del name!’&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;:@property可以控制属性，比如只读属性：不实现@xxx.setter和@xxx.deleter就可以了。&lt;/p&gt;
+&lt;p&gt;&lt;span id="range"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;range(start, stop[,step])&lt;/h3&gt;
+&lt;p&gt;用于创建列表，‘要头不要尾’。setp参数为步长&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#[0, 1, 2, 3, 4]&lt;/span&gt;
+&lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#[2, 3]&lt;/span&gt;
+&lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#[10, 15]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="raw_input"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;raw_input()&lt;/h3&gt;
+&lt;p&gt;获取控制台的输入&lt;/p&gt;
+&lt;p&gt;&lt;span id="reduce"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;reduce(function,iterable[,initializer])&lt;/h3&gt;
+&lt;p&gt;将带有两个参数的function累计地应用到iterable的元素上，从左向右。如果提供可选的参数initializer，它在计算时放在可迭代序列的最前面，并且当可迭代序列为空时作为默认值。例如：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;reduce&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="o"&gt;+&lt;/span&gt;&lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;
+&lt;span class="c1"&gt;#相当于计算(((1+2)+3)+4)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="reload"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;reload(module)&lt;/h3&gt;
+&lt;p&gt;如果你重新修改了模块，并且不打算停止重新启动python解释器的情况下使用该模块的最新版本。那么就使用&lt;code&gt;reload()&lt;/code&gt;，在reload之前就&lt;strong&gt;需要确保import过&lt;/strong&gt;。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# test_reload.py&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;a&amp;#39;&lt;/span&gt;
+
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;test_reload&lt;/span&gt;  &lt;span class="c1"&gt;#&amp;#39;a&amp;#39;&lt;/span&gt;
+&lt;span class="c1"&gt;#修改test_reload.py ——&amp;gt; print &amp;#39;b&amp;#39;&lt;/span&gt;
+
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;test_reload&lt;/span&gt;  &lt;span class="c1"&gt;#什么都输出，因为没有之前已经import过了，所以没有重新加载&lt;/span&gt;
+
+&lt;span class="nb"&gt;reload&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;test_reload&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#&amp;#39;b&amp;#39;重新加载成功！&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="repr"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;repr(object)&lt;/h3&gt;
+&lt;p&gt;精准的返回某个对象可打印形式的字符串。返回的值，可以通过eval()执行。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;repr&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;a&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#&amp;quot;&amp;#39;a&amp;#39;&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="reversed"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;reversed(seq)&lt;/h3&gt;
+&lt;p&gt;返回一个反向的&lt;strong&gt;迭代器&lt;/strong&gt;。seq必须是一个具有__reversed__()方法或支持序列协议的对象（实现__len__()和__getitem__()方法）。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;test_reverse&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;reversed&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;  &lt;span class="c1"&gt;#&amp;lt;listreverseiterator object at 0x10bcab810&amp;gt;&lt;/span&gt;
+&lt;span class="n"&gt;test_reverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;next&lt;/span&gt;   &lt;span class="c1"&gt;#4&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;:可以编写一个定制的__reversed__()方法的可能。&lt;/p&gt;
+&lt;p&gt;&lt;span id="round"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;round(number[, ndigits])&lt;/h3&gt;
+&lt;p&gt;返回一个浮点数的近似值，保留小数点后&lt;code&gt;ndigits&lt;/code&gt;位，默认&lt;code&gt;ndigits&lt;/code&gt;为零。这个方法不好用，因为近似值不是&lt;strong&gt;四舍五入&lt;/strong&gt;。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;round&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;2.675&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#2.67&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="set"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;set([iterable])&lt;/h3&gt;
+&lt;p&gt;返回一个集合对象，iterable是可迭代的对象。&lt;/p&gt;
+&lt;p&gt;&lt;span id="setattr"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;setattr(object,name,value)&lt;/h3&gt;
+&lt;p&gt;给object的属性赋值，可以是存在的属性，也可以是不存的属性。例如：&lt;code&gt;setattr(s, 'name','xueweihan')&lt;/code&gt;等同于&lt;code&gt;s.name='xueweihan'&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id="slice"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;slice()&lt;/h3&gt;
+&lt;p&gt;常用的切片方法：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;  &lt;span class="c1"&gt;#2&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="sorted"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;sorted(iterable[,cmp[,key[,reverse]]])&lt;/h3&gt;
+&lt;p&gt;用于iterable对象排序的方法。
+- cmp指定一个自定义的带有两个参数的比较函数（可迭代的元素），它应该根据第一个参数是小于、等于还是大于第二个参数返回负数、零或者正数：cmp=lambda x,y: cmp(x.lower(), y.lower())。默认值是None。
+- key指定一个带有一个参数的函数，它用于从每个列表元素选择一个比较的关键字：key=str.lower。默认值是None（直接比较元素）。
+- reverse是一个布尔值。如果设置为True，那么列表元素以反向比较排序。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Student&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;__init__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;grade&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;age&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;
+            &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;grade&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;grade&lt;/span&gt;
+            &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;age&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;age&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;__repr__&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="nb"&gt;repr&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;grade&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;age&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+
+&lt;span class="n"&gt;student_objects&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;
+    &lt;span class="n"&gt;Student&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;john&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;A&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+    &lt;span class="n"&gt;Student&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;jane&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;B&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;12&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+    &lt;span class="n"&gt;Student&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;dave&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;B&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="nb"&gt;sorted&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;student_objects&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;lambda&lt;/span&gt; &lt;span class="n"&gt;student&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;student&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;age&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;   &lt;span class="c1"&gt;# sort by age&lt;/span&gt;
+&lt;span class="c1"&gt;#结果为：[(&amp;#39;dave&amp;#39;, &amp;#39;B&amp;#39;, 10), (&amp;#39;jane&amp;#39;, &amp;#39;B&amp;#39;, 12), (&amp;#39;john&amp;#39;, &amp;#39;A&amp;#39;, 15)]&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="staticmethod"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;staticmethod(function)&lt;/h3&gt;
+&lt;p&gt;返回一个静态方法。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;C&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nd"&gt;@staticmethod&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;f&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;arg1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;arg2&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="k"&gt;pass&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;:静态方法基可以在类上调用&lt;code&gt;C.f()&lt;/code&gt;，也可以在实例上调用&lt;code&gt;C().f()&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;span id="str"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;str(object='')&lt;/h3&gt;
+&lt;p&gt;返回一个字符串，包含对象的友好可打印表达形式。&lt;br /&gt;
+&lt;strong&gt;注意&lt;/strong&gt;:&lt;code&gt;print&lt;/code&gt;调用的就是对象的__str__方法&lt;/p&gt;
+&lt;p&gt;&lt;span id="sum"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;sum(iterable[,start])&lt;/h3&gt;
+&lt;p&gt;将iterable的元素从左向右相加并返回总和。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;])&lt;/span&gt;  &lt;span class="c1"&gt;#6&lt;/span&gt;
+&lt;span class="nb"&gt;sum&lt;/span&gt;&lt;span class="p"&gt;([&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#8&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="super"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;super()&lt;/h3&gt;
+&lt;p&gt;用于显性的指定父类的方法。同时实现方法的绑定。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;C&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;B&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;method&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;arg&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+        &lt;span class="nb"&gt;super&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;C&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="bp"&gt;self&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;method&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;arg&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#C的父类实例的method()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="tuple"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;tuple([iterable])&lt;/h3&gt;
+&lt;p&gt;返回一个元素，元素顺序和iterable的元素相同。&lt;/p&gt;
+&lt;p&gt;&lt;span id="tpye"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;type(object)&lt;/h3&gt;
+&lt;p&gt;返回object的类型。&lt;/p&gt;
+&lt;p&gt;type(name, bases, dict)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;X&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;
+
+&lt;span class="n"&gt;X&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;type&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;X&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;object&lt;/span&gt;&lt;span class="p"&gt;,),&lt;/span&gt; &lt;span class="nb"&gt;dict&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;  &lt;span class="c1"&gt;# 当传入三个参数时，返回一个新的类型对象。&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="unichr"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;unichr(i)&lt;/h3&gt;
+&lt;p&gt;返回Unicode类型数据i的Unicode码。例如：&lt;code&gt;unichr(97)&lt;/code&gt;返回字符串&lt;code&gt;u'a'&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;span id="unicode"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;unicode(object='')&lt;/h3&gt;
+&lt;p&gt;返回object的Unicode版字符串&lt;/p&gt;
+&lt;p&gt;&lt;span id="vars"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;vars([object])&lt;/h3&gt;
+&lt;p&gt;返回模块，类，实例或者其他任何具有__dict__属性的对象的__dict__属性。(key:value形式的__dict__属性)&lt;/p&gt;
+&lt;p&gt;&lt;span id="xrange"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;xrange(x)&lt;/h3&gt;
+&lt;p&gt;和&lt;a href="#range"&gt;range()&lt;/a&gt;方法一样，区别就是它返回的是一个xrange对象而不是一个列表。惰性计算！当x很大的时候，一定要用xrange。&lt;/p&gt;
+&lt;p&gt;&lt;span id="zip"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;zip([iterable,...])&lt;/h3&gt;
+&lt;p&gt;该函数返回一个元组的列表，其中第i个元素包含每个元素的序列的第i个元素。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="n"&gt;y&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="c1"&gt;#可用于转置矩阵&lt;/span&gt;
+&lt;span class="n"&gt;zipped&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;zip&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#[(1, 4), (2, 5), (3, 6)]&lt;/span&gt;
+
+&lt;span class="n"&gt;x2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;y2&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="nb"&gt;zip&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;zipped&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="nb"&gt;list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;y&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="nb"&gt;list&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;y2&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;  &lt;span class="c1"&gt;#True&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;span id="_import_"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;__import__()&lt;/h3&gt;
+&lt;p&gt;这种高级引入模块的方法，不常用，所以pass&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Sat, 19 Mar 2016 22:01:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-03-19:python-build-in-func.html</guid><category>python</category><category>基础</category></item><item><title>什么是真正的程序员</title><link>http://blog.xueweihan.com/the-real-programer.html</link><description>&lt;blockquote&gt;
+&lt;p&gt;这篇文章的原文来自：&lt;a href="http://ferd.ca/the-little-printf.html"&gt;A Little Printf Story&lt;/a&gt;&lt;br&gt;作者仿照《小王子》中的情节，通过小printf遇见的不同类型的程序员，最后悟出什么才是真正的程序员！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;文章略长，但是耐心读完，你肯定会受益良多！&lt;/p&gt;
+&lt;h2&gt;第一章&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;（推荐看完整篇文章，再回过头看一遍第一章）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我非常幸运出生在一个电脑和电子游戏还没有普遍的时代。所以我可以和我的小伙伴们一起玩耍，同时发明属于我们的游戏。&lt;/p&gt;
+&lt;p&gt;我们十分会玩：用树枝做成'🏹️'。我们可以用树枝做出任何东西，除'回旋镖'。因为你把树枝扔出去，你需要自己捡回来。（作者这个故事是活跃气氛吗？😓）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/boomerang.png" title="回旋镖" /&gt;&lt;/p&gt;
+&lt;p&gt;当我们长大了，上面说的游戏变得很幼稚。你不能把一个松塔当成一个手榴弹；假装拥有神奇的魔法；当其他孩子觉得作为一个成年人很酷。你最终会迫于压力而长大。不过总的来说这也是一个非常幸运的童年。&lt;/p&gt;
+&lt;p&gt;偶然的一次机会我接触了电子游戏和电脑。你可能想沉浸在这个虚拟的世界，这会毁了你。&lt;/p&gt;
+&lt;p&gt;大多数电子游戏：你不能创造，只能反应，浪费你的时间。我在十多岁的时候，参加过'即兴表演'。在哪里我可以发挥我的创造性。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/improv.png" title="即兴表演" /&gt;&lt;/p&gt;
+&lt;p&gt;我大学的专业是'多媒体'，但是我最终却从事'编程'工作。我觉得编程is amazing！我可以发挥我的创造性，同时又可以挣钱！之后我做了我的第一个游戏。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/game.png" title="html游戏" /&gt;&lt;/p&gt;
+&lt;p&gt;"这不是一个真正的电子游戏。"别人跟我说："它只是一个html的表单，而且代码需要简化。"&lt;/p&gt;
+&lt;p&gt;这席话使我有一些沮丧，它花费了很多心思和时间。但是，我意识到如果我想做出被人们认可的东西的话，我还需要学习更多知识。&lt;/p&gt;
+&lt;p&gt;我需要学习真正的编程。从GUI工具里的JS，转到更好的语言：像PHP。所以我先学习了Js，后来又去学习PHP，但是一切并不是很顺利，其他人给我的建议去试试python。最后，我学习的是python（🎊我也是这样走上python之路的🍻）。&lt;/p&gt;
+&lt;p&gt;但是python中高深一些的东西：'lambdas'和'面向对象编程'，让我云里雾里的。后来别人建议我去读一下《计算机程序的构造和解释》，因为它是编程的基础入门圣经。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/sicp.png" title="SICP" /&gt;&lt;/p&gt;
+&lt;p&gt;就这样，我知道了Scheme，后来我又去学习C语言。因为大多数的程序员都会C，同时我旁听了我们学校的计算机课程，跟着他们一起学习。因为，真正的程序员都知道数据结构和数学，但是这些我只略懂皮毛。我开始读技术文章和书，因为程序员的知识更新太快。&lt;/p&gt;
+&lt;p&gt;经过一段时间，我掌握了Erlang，从而开始了我的职业生涯。（这篇文章的作者写了一本：Erlang入门书）。十分奇怪的是：我这个没有用Erlang做过任何生产级别的开发的人，却得到了一份教Erlang的工作。&lt;/p&gt;
+&lt;h2&gt;第二章&lt;/h2&gt;
+&lt;p&gt;所以我忙于到世界各地演讲，教别人（夸夸其谈）。但是，大家似乎都相信我是一个真正的程序员。因为，我讲的这些事情大多都和编程无关。&lt;/p&gt;
+&lt;p&gt;一天，我结束了一个会议回家，飞机晚点。我愤怒的敲击着键盘，一个柔弱的声音打断了我：&lt;/p&gt;
+&lt;p&gt;"你好，能请你给我设计一个系统吗？"&lt;/p&gt;
+&lt;p&gt;我："什么？"&lt;/p&gt;
+&lt;p&gt;"给我设计一个系统！"&lt;/p&gt;
+&lt;p&gt;我对这个请求很惊讶。我环视四周，发现一个渴望成为开发者的孩子。他叫'printf'（主角闪亮登场）。我觉得这个名字很傻。他的样子如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/printf-nocover.png" title="little printf" /&gt;&lt;/p&gt;
+&lt;p&gt;"我还不是很了解计算机，但是你好像是计算机方面的专家。我希望写一个blog程序，人们可以使用和访问它。求求你帮我设计一个系统！"&lt;/p&gt;
+&lt;p&gt;这是个令人惊讶的请求，并且我已经二十多个小时没睡了。我不是完全理解他所说的。我告诉他，做一个系统十分困难。我不知道他想要做什么：需要支持多少访问者；在哪里部署；所以我无法根据他提供的少量信息，设计一个合适的系统。&lt;/p&gt;
+&lt;p&gt;"没有关系，给我设计一个系统吧。"&lt;/p&gt;
+&lt;p&gt;所以我做了下面这幅结构图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/arch1.png" title="系统结构图1" /&gt;&lt;/p&gt;
+&lt;p&gt;他看了之后说："不，这个系统还不够好。请给我再设计一个别的。"&lt;/p&gt;
+&lt;p&gt;所以我又做了下面这个：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/arch2.png" title="系统结构图2" /&gt;&lt;/p&gt;
+&lt;p&gt;然后我给他讲解这个系统的工作原理。&lt;/p&gt;
+&lt;p&gt;我的新朋友 (printf)十分礼貌的说："这不是我想要的，它又太复杂而且好多东西都是我不需要的。"&lt;/p&gt;
+&lt;p&gt;我感到十分不爽，我设计的这个系统考虑到了：冗余、监控、备份、缓存、负载、支付、故障转移、部署简单等等。我设计的这个系统都已经可以获得一份可观的咨询费用了！我已经失去耐心了，所以我就画了这个：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/blackbox.png" title="enjoy!" /&gt;&lt;/p&gt;
+&lt;p&gt;我又告诉他："这是你设计的系统，你要的系统在这个黑盒子里。"我希望这个滑稽的答案，可以打发他。但是他的回复让我十分惊讶：&lt;/p&gt;
+&lt;p&gt;"这正是我想要的！"&lt;/p&gt;
+&lt;p&gt;这就是我和小printf相识的过程。&lt;/p&gt;
+&lt;h2&gt;第三章&lt;/h2&gt;
+&lt;p&gt;过了一段时间，我知道了这个小鬼的编程水平。在他的代码仓库只有些小程序、网站的小demo、琐碎的程序片段。都是些不值得一提的东西。&lt;/p&gt;
+&lt;p&gt;之后他开始着手做一个需要很多模块的大型程序。这个程序需要socket、磁盘读写、用到真正的数据库。当它第一次跑起来的时候，小printf十分兴奋。但是，这个程序还不够好。&lt;/p&gt;
+&lt;p&gt;这个程序需要重构、更好的测试、文档、分析。它只运行了一段时间就崩溃了。然后一次，又一次的崩溃！&lt;/p&gt;
+&lt;p&gt;程序的设置是错误的，日志不工作、磁盘速度不稳定、网络卡顿、有bug、编码混乱、数据库需要清理、证书过期、没有异常处理导致问题找不到根源。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/spaghetti.png" title="一团糟" /&gt;&lt;/p&gt;
+&lt;p&gt;真的想面条一样一团糟。&lt;/p&gt;
+&lt;p&gt;小printf跟我说："通过这件事，我发现自己简直是一无所知！这个程序本来是根据我的需要写的。我原来的想法太天真了，后来我修复bug的时间和这个程序给我带来的便利根本不成正比！最后，变得跟我原来想的一点都不一样。虽然这样，我仍然认为这件事情让我收获了很多。"&lt;/p&gt;
+&lt;p&gt;一天早上，他决定离开我这里。"再见。"小printf跟我做了最后的道别。他想要出去看看世界，看看其他人写的程序。&lt;/p&gt;
+&lt;p&gt;小printf写的应用，最后因为不断增加的日志，导致硬盘没有空间，彻底的崩溃了。&lt;/p&gt;
+&lt;h2&gt;第四章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/building.png" title="建筑" /&gt;&lt;/p&gt;
+&lt;p&gt;小printf走进了一个办公楼，想寻找有经验的程序员取经，获得一些建议和帮助。&lt;/p&gt;
+&lt;p&gt;他遇到一个骄傲的高级程序员，而且自我感觉良好。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/pro.png" title="骄傲的高级工程师" /&gt;&lt;/p&gt;
+&lt;p&gt;傲慢的高级程序员说："哎，过来新手！欢迎来到我所擅长领域，在这个领域我是专家！"&lt;/p&gt;
+&lt;p&gt;"专家？"小printf问到："专家的意思是：可以编写任何程序吗？"&lt;/p&gt;
+&lt;p&gt;"是的！"傲慢的高级程序员回答道，接着他又说："准确的说，应该是大多数程序。因为我只编写有价值的程序，我不会浪费我的时间在没有意义的小程序上。很多程序我都没有写过，但是他们都难不倒我！"&lt;/p&gt;
+&lt;p&gt;"额，所以你可以帮我完善我的程序？"小print问到，之后他开始阐述他的网站系统，但是傲慢的高级程序员打断了他：&lt;/p&gt;
+&lt;p&gt;"对不起，我觉得你的网站系统没有一点价值。"&lt;/p&gt;
+&lt;p&gt;小printf："为什么？"&lt;/p&gt;
+&lt;p&gt;"经验，我擅长编写我开发的东西，我也只做我擅长的领域的开发。我需要确保我在我的领域的永远有价值。这叫做工作保障，也叫做适者生存。但这就是我的风格。我只专注于我的领域！"&lt;/p&gt;
+&lt;p&gt;小printf："那你为什么不帮我呢？"&lt;/p&gt;
+&lt;p&gt;"花费我的时间去帮助你，意味着我需要花费精力去帮助别人，而不是提高自己----这对我来说不是一个好的主意。我的建议是：自己多努力，自己弄懂。还可以塑造你自己的心性"&lt;/p&gt;
+&lt;p&gt;小printf："你说的方法，好想不是很高效。。。"&lt;/p&gt;
+&lt;p&gt;"你可以到学校去学，或者自学。事实上这种方法可以淘汰那些懒惰，只喜欢简单的事情的人。真正渴望知识的人才能成功！"&lt;/p&gt;
+&lt;p&gt;小printf："你认为合作和同事不能帮助你吗？"&lt;/p&gt;
+&lt;p&gt;"不，我并不是这个意思。我做好的工作状态是：独立空间，没有让我分心的事。每次我和同事合作的时候，都是一次不好的经历。以往的经验：最好的办法是：把他们的代码拿过来重写。然后就可以了！"&lt;/p&gt;
+&lt;p&gt;小printf对这个不喜欢帮助别人的专家感到十分惊讶，不仅如此，他还因人为别人的技术不行而恼火。这个专家眼界是狭隘的，他只关心自己擅长的领域。活在自己的世界里。&lt;/p&gt;
+&lt;p&gt;小printf："我明白了，我想我很庆幸你没有帮助我。"&lt;/p&gt;
+&lt;p&gt;"你什么意思？"傲慢的专家问到，貌似他的权威受到了威胁："你不认可我，你是在质疑我吗？"&lt;/p&gt;
+&lt;p&gt;小printf："并不是这样，就像你觉得我是一个累赘，令人恼怒的一样。我是来寻找帮助的，而不是来找骂的。"&lt;/p&gt;
+&lt;p&gt;说完之后，小printf飞快的跑出了傲慢专家的办公室。当小printf离开后，这个专家又重新找回了他所擅长领域的权威，同时自我感觉良好。&lt;/p&gt;
+&lt;h2&gt;第五章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/books.png" title="第五章周围都是书的程序员" /&gt;&lt;/p&gt;
+&lt;p&gt;然后，小printf又走进了另外一个办公室。里面有一个男士，他的座位周围都是精装厚厚的书籍（例如代码大全这种书）。&lt;/p&gt;
+&lt;p&gt;小printf："先生，你有好多书啊！"&lt;/p&gt;
+&lt;p&gt;"是的，我想这些都是程序员必看的书籍，如果你没看过这些，你很难成为'大牛'（专业人士）。"&lt;/p&gt;
+&lt;p&gt;小printf："我想我现在还是很菜，请问这些书里面你最喜欢哪本？"&lt;/p&gt;
+&lt;p&gt;"哦，是这样的这些书大多数我还没有读过。"&lt;/p&gt;
+&lt;p&gt;小printf："那你现在是个'大牛'吗？"&lt;/p&gt;
+&lt;p&gt;"不，我还不是。"这个程序员很骄傲的说："我其实是一个很垃圾的程序员。"&lt;/p&gt;
+&lt;p&gt;小printf："这太丢人了，我正在努力变强。"&lt;/p&gt;
+&lt;p&gt;"你听过'达克效应'吗？"&lt;/p&gt;
+&lt;p&gt;小printf："那是什么？"&lt;/p&gt;
+&lt;p&gt;"简单的说就是：能力强的人总是低估自己，能力弱的人总是高估自己。"&lt;/p&gt;
+&lt;p&gt;小printf："也就是说，如果我觉得自己在变强，其实我并没有变强。"&lt;/p&gt;
+&lt;p&gt;"是的，你说的非常正确。你很可能在原地踏步。另一方面，我宣扬我是一个很糟糕的程序员，但根据'达克效应'。我是低估了我自己，所以我是一个好的程序员，你怎么看？"&lt;/p&gt;
+&lt;p&gt;小printf："我。。。额"&lt;/p&gt;
+&lt;p&gt;"这就是为什么程序员都喜欢自嘲（称自己是码农也算吧？）。当你认为你足够好了，你就放松了，也就没有前进的动力。"（这句话我还是很赞同的👍）&lt;/p&gt;
+&lt;p&gt;小printf："你的意思是：一旦自我感觉良好，也就是正在走向失败，因该时刻觉得自己还不够好。"&lt;/p&gt;
+&lt;p&gt;"是的，但是用着这种方式应对所有的事很危险，如果你还没有拿到offer。这种方式会让你显的聪明，但是没有任何实际用途，别人不会因为你显的聪明就雇佣你。"&lt;/p&gt;
+&lt;p&gt;小printf："你的意思是？"&lt;/p&gt;
+&lt;p&gt;"比方说：我在网上看到一个我不喜欢的项目。我留言说项目一无是处，但是不明确的指出哪里不好。最后你还可以说这个项目的作者是笨蛋，也没有人管你。"&lt;/p&gt;
+&lt;p&gt;小printf："但是这样做有什么好处呢？"&lt;/p&gt;
+&lt;p&gt;"我想让他们知道他们走上歧途了，却又不明确的指出来。这表现的我比他们厉害。然而他们毫无头绪，像雾里看花。没有人能明白我的意思。哇咔咔"&lt;/p&gt;
+&lt;p&gt;小printf："当别人请教你的问题，你不会的时候，你会怎么办？"&lt;/p&gt;
+&lt;p&gt;"这种情况下你就说到处都是问题，还有很多的不完善的事情要做，总之就是转移话题。然他们感觉绝望，最后还是要他们自己解决。"&lt;/p&gt;
+&lt;p&gt;小printf："所以这就是你的立场？这是你的一贯作风？你会的问题装作对此无能为力，使得真正无法解决这个问题的人抓狂；当你遇到不会的问题时，你装作很了解，使得别人根据你的建议改善其它的地方，而与真理相行渐远，浪费时间"&lt;/p&gt;
+&lt;p&gt;"很多情况下，才能不是最重要的。但口碑很重要。人们雇佣朋友，不被喜欢的人和无关紧要的人会被第一个被炒鱿鱼（😤MLGB）。要不就改变环境，改不了就要适应，适应不了就被淘汰。这就是'社会'。企业中就是这样，学术届没准也是。做这行，你认识谁，学会推销自己，建立自己的声望。这样你才能在企业里站住脚。"&lt;/p&gt;
+&lt;p&gt;小printf："如果在企业中工作是这么恶心，要给别人'使绊'。那么我真不想在这种环境下工作！（黑暗的办公室政治，还好我还没有遇到🙊）"&lt;/p&gt;
+&lt;h2&gt;第六章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/realprog.png" title="第六章忘记吃午饭的程序员" /&gt;&lt;/p&gt;
+&lt;p&gt;到了吃午饭的时间，小printf打断了一个貌似忘记吃午饭的人。他桌子上的三明治已经凉了，但是他还是坐在桌子前面盯着他的屏幕。&lt;/p&gt;
+&lt;p&gt;他好像十分的忙，但是没人知道他在做什么。&lt;/p&gt;
+&lt;p&gt;小printf："如果主数据库挂掉了，从数据库也会挂掉吗？"（创建主从数据库是为了减少DOWN机时间，让数据库可以一直处于工作状态中）&lt;/p&gt;
+&lt;p&gt;"你运行的所有东西，或早或晚都会挂掉。"&lt;/p&gt;
+&lt;p&gt;小printf："你以往的经历告诉你这一切都会失败？"&lt;/p&gt;
+&lt;p&gt;"是的，不仅如此。所有的大系统，都会在特定的时间出现问题。"（就像千年虫问题？🤔）&lt;/p&gt;
+&lt;p&gt;小printf："那么，做一个可靠的系统，都需要做什么？"&lt;/p&gt;
+&lt;p&gt;那个人忙于他自己的事情，没有理会小printf。&lt;/p&gt;
+&lt;p&gt;小printf又问了一次："做一个可靠的系统，都需要做什么？"&lt;/p&gt;
+&lt;p&gt;那个人正在尝试解决产品中的一个问题，但是小printf还一直问个不停，同时他还没有吃午饭。&lt;/p&gt;
+&lt;p&gt;所以他不耐烦甚至粗鲁的吼道："这根本不可能，编程就是shit💩。"&lt;/p&gt;
+&lt;p&gt;小printf倒吸了一口气，半天说不出一句话。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/trashcan.png" title="progamming is shit" /&gt;&lt;/p&gt;
+&lt;p&gt;小printf💢愤怒的回击道："我不相信你说的。程序是脆弱的没错，但是程序员可以改善这一点，同时做出更好和有用的东西"&lt;/p&gt;
+&lt;p&gt;那个人没有任何回答，他在翻阅文档，尝试重新启动一个新的集群，但是情况却越来越糟糕。&lt;/p&gt;
+&lt;p&gt;小printf："并且你应该相信有好的可靠的程。。"&lt;/p&gt;
+&lt;p&gt;"不可能"那个人打断了小printf，接着说道："我不相信有可靠或者好的的程序！根本不可能！这是我的第一个感觉，因为我正在处理一个垃圾的系统。你没看见我想法设法地让这个东西跑起来吗？事实如此！"&lt;/p&gt;
+&lt;p&gt;小printf很震惊的看着他说道："事实如此？说的好像自己是个专家！是你自己把一切都搞的很糟糕。这世界上有上百万的和久经考验的程序，它们也有bug，也崩溃。但是人们还是需要它们，使用它们。据我所知很多程序是没有问题的。出现问题的原因大多是因为电脑的环境配置问题，或者一个错误的操作造成的。你不认为这才是问题的所在吗？"&lt;/p&gt;
+&lt;p&gt;那个人听完哑口无言。&lt;/p&gt;
+&lt;h2&gt;第七章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/frameworks.png" title="第七章盲目追求框架的程序员" /&gt;&lt;/p&gt;
+&lt;p&gt;小printf来到了第四个地方，遇到了一个人，他的电脑几乎被便签盖满了，没有人知道他在干什么。&lt;/p&gt;
+&lt;p&gt;"motor-mvc, quadrangular JS, GoQuery, cometeor, some japanese soundy thing, ..."&lt;/p&gt;
+&lt;p&gt;小printf打断了他的自言自语说道："你好，你在干什么？"&lt;/p&gt;
+&lt;p&gt;"alchemist, bongodb, mochascript, walktime.js, portasql, ..."，哪个男士继续自言自语&lt;/p&gt;
+&lt;p&gt;小printf提高了音量又问了一次："你在干什么？"&lt;/p&gt;
+&lt;p&gt;"哦，我正在尝试新的框架，工具和语言。"&lt;/p&gt;
+&lt;p&gt;小printf："哇，你接触的东西好新鲜啊！大多数人还都没有听说过这些。"&lt;/p&gt;
+&lt;p&gt;"是的，这个行业跟新很快！"他看了一眼他的手机接着又说到："看，&lt;code&gt;cardboard.io&lt;/code&gt;框架又推出了3.5版本，它宣布不兼容3.4了。于此同时社区中已经有4个衍生版本了。我必须从他们之中挑一个。"&lt;/p&gt;
+&lt;p&gt;小printf："你这么做为了什么？"&lt;/p&gt;
+&lt;p&gt;"我是最早的尝鲜者，如果你不保持更新技能树，还是用老掉牙的：COBOL或者MUMPS（两门老掉牙的编程语言🤖）。你还想抓住成功的契机，抢占先机，乘势而起？"&lt;/p&gt;
+&lt;p&gt;小printf："你成功的预测过以后的热门技术吗？"&lt;/p&gt;
+&lt;p&gt;"是的！我发现Rails的时候它还很小，我学会Node.js的时候它还没有流行。我是redis，mongodb和riak的内测用户。我是第一批试用vagrant的用户，然后我转去使用docker，但是现在我全身心的关注unikernels。。"&lt;/p&gt;
+&lt;p&gt;小printf："太酷了！你是第一批试用这些的技术的人，你从中得到了什么回报？"&lt;/p&gt;
+&lt;p&gt;"额，并没有。当Rails壮大的时候，我就去关注另外的新鲜东西了。同样的，其他的几门技术我也是这样的（他不独宠一个，而是雨露均沾🙈）。我现在把希望寄托在unikernels上。"&lt;/p&gt;
+&lt;p&gt;小printf沉思了一会说到："你用这些框架和工具都解决了什么问题？"&lt;/p&gt;
+&lt;p&gt;"我每次都确保不使用不成熟的东西，因为不能用公司做赌注。这一点十分重要，因为如果你使用最新的技术，你就可能招不到人，而不关注新的技术，有可能脱离时代的步伐。所以我们鼓励学习新的技术。"&lt;/p&gt;
+&lt;p&gt;小printf："这非常有趣。"&lt;/p&gt;
+&lt;p&gt;"在这个飞速发展的世界中，如果你想参加这场游戏，你需要有先进的技术。否则你就会被时代淘汰，没有人想被时代淘汰。"&lt;/p&gt;
+&lt;p&gt;小printf："不，你误解我的意思了，我的意思是：好的工具是为了解决问题而被制造出来的。但是你却盲目追求新的技术，而不是为了什么实际的目的。"&lt;/p&gt;
+&lt;p&gt;听完这些话，哪个人呆住了，小printf跳跃着离开了这个房间。&lt;/p&gt;
+&lt;h2&gt;第八章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/ops.png" title="第八章疲惫不堪的女程序员" /&gt;&lt;/p&gt;
+&lt;p&gt;小printf来到了下一个办公室，这里又一个疲惫的女员工。桌子上杂乱无章，整个人无精打采，疯狂的打字。&lt;/p&gt;
+&lt;p&gt;小printf："你好。"&lt;/p&gt;
+&lt;p&gt;这个女士没有停下了她的手头工作，继续疯狂的打字。&lt;/p&gt;
+&lt;p&gt;小printf又打了一遍招呼："你好？"&lt;/p&gt;
+&lt;p&gt;女士这次停下了，拿起一瓶咖啡猛灌了一口。&lt;/p&gt;
+&lt;p&gt;"我有一份十分糟糕的工作。"她说："我是devops（开发，运维，测试于一体的职位）。刚开始的时候还好，原来我大多数时间进行开发，然后抽出一些时间修复bug。但是，情况变的越来越糟糕，bug开始接连不断。为了摆脱这种情况，同时在规定时间内完成。我不得不使用一些'奇技淫巧'。"&lt;/p&gt;
+&lt;p&gt;小printf："你为什么不顾人来帮你？"&lt;/p&gt;
+&lt;p&gt;"我很擅长做这些事情。我已经习惯这一切都在我的的掌控之下。还有因为他们已经习惯我可以hold一切，如果我提出我自己无法继续掌控全局的以后，他们很容易认为我在偷懒。"&lt;/p&gt;
+&lt;p&gt;小printf："这真是叫人悲伤的故事。"&lt;/p&gt;
+&lt;p&gt;"事实就是这样子。因为你是最熟悉这些问题（bug🔥）的人，你只能变的越来越累，直到你的boss招了一个人顶替你原来的工作，这是唯一出路。但如果你担心其他人修改你写的东西时候遇到问题，你只能帮助别人改一个又一个的bug，当然这些都是你讨厌的事情。直到你对这一切感到麻木。"&lt;/p&gt;
+&lt;p&gt;小printf："你真不幸。"&lt;/p&gt;
+&lt;p&gt;这位女士又被叫去工作了。&lt;/p&gt;
+&lt;p&gt;小printf自言自语道："这个女人会被我原来遇到的那些人嘲笑的：那个高级专家（只专注于自己擅长的领域），摇滚开发者（过分追求新技术的人），故做高深的程序员（那个周围都是大头书的装X程序员）。尽管他是这些人里面唯一乐于助人的。或许是因为，她认为一切事情还是亲力亲为的好。"&lt;/p&gt;
+&lt;h2&gt;第九章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/architect.png" title="第九章架构师" /&gt;&lt;/p&gt;
+&lt;p&gt;小printf发现在这栋大楼里发现了一个有着巨大落地窗并且宽敞的办公室。这里坐着一个德国老头，他面前堆了一堆的文件。&lt;/p&gt;
+&lt;p&gt;"啊！来了一个开发者。"德国老头惊呼道同时招呼小printf说："快进来！"&lt;/p&gt;
+&lt;p&gt;小printf环视四周的窗户，发现上面写满了东西。上面画了各种圆圈，箭头，圆柱和云彩（就是图片中玻璃上的图形）。真是搞不懂这个老头画这些东西有什么用。&lt;/p&gt;
+&lt;p&gt;小printf："窗户上的都是些什么？"&lt;/p&gt;
+&lt;p&gt;"哦，这些？这是我们的线上系统！"那个老头随口说到："我是一个软件架构师。"&lt;/p&gt;
+&lt;p&gt;小printf："什么是软件架构师？"&lt;/p&gt;
+&lt;p&gt;"总的来说，就是知道如何构建大型系统并且让系统中的每个部分都非常稳定的人。架构师还会数据库，编程语言，框架，编写程序，协议，封装和降低耦合等知识。"&lt;/p&gt;
+&lt;p&gt;小printf："听起来都叫人兴奋！终于有人能回答我的所有问题了！"小printf瞥了一眼玻璃上的结构图说到："你们的系统真大，他跑的快吗？"&lt;/p&gt;
+&lt;p&gt;"我没法告诉你。"架构师说；"应该会很快吧。"&lt;/p&gt;
+&lt;p&gt;小printf："那它的代码怎么样呢？"&lt;/p&gt;
+&lt;p&gt;"我没法告诉你。"&lt;/p&gt;
+&lt;p&gt;小printf："用户喜欢这个系统吗？"&lt;/p&gt;
+&lt;p&gt;"这个我恐怕也没法告诉你。"&lt;/p&gt;
+&lt;p&gt;小printf："但是你是软件架构师啊！"&lt;/p&gt;
+&lt;p&gt;"我的确是架构师，但是我不是开发者。架构师不做，例如：功能模块，类，整合lib等。这种工作的。架构师最重要的不是写代码。他是指引程序员和开发者的人。如果遇到棘手的，无法解决的问题，架构师才会接手。"&lt;/p&gt;
+&lt;p&gt;小printf："这是为什么呢？"&lt;/p&gt;
+&lt;p&gt;"因为我们经验十足。我们了解系统并且能解决它的一切问题。开发者可以根据我们的经验和指导，开发出好的系统。"&lt;/p&gt;
+&lt;p&gt;小printf："但是你不写，不看代码怎么知道这将是个好的系统？"&lt;/p&gt;
+&lt;p&gt;"我们相信开发者。"&lt;/p&gt;
+&lt;p&gt;小printf："所以，所你们相信开发者们可以正确的实现你们的想法，但是开发者们没有机会提出他们自己的想法？"&lt;/p&gt;
+&lt;p&gt;这个软件架构师明显的愣了一下："我想。。。"他最终承认了："你刚才提出的这个问题，其实工作中很多的提议是没有被证实，或者实验的。。。"他停顿，并沉思了一下说道："有些时候软件架构师看起来既不是软件工程师，也不是架构师（是老师？）。"&lt;/p&gt;
+&lt;p&gt;小printf离开了这个房间，结束了他的旅行。走出了这栋楼&lt;/p&gt;
+&lt;h2&gt;第十章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="pic18" src="http://7xqirw.com1.z0.glb.clouddn.com/charity.png" title="第十章" /&gt;&lt;/p&gt;
+&lt;p&gt;小printf走到外边，发现了一个为慈善机构募集钱的男士。&lt;/p&gt;
+&lt;p&gt;"你好"那个男士说道："你觉得帮助一些需要帮助的人的感觉怎么样？"&lt;/p&gt;
+&lt;p&gt;小printf："那样可能会让我感觉更好，我在那栋建筑（遇到了各种各样的程序员的大楼）呆了一整天，寻求帮助。但是现在，我感觉比以前更加迷惑了。"&lt;/p&gt;
+&lt;p&gt;"嗯，我帮你分析下：那些人都是开发者，他们并没有真正帮到你是吗？他们喜欢说"程序员改变世界"，实时也是这样的。"&lt;/p&gt;
+&lt;p&gt;小printf："那为什么我却毫无收获呢？"&lt;/p&gt;
+&lt;p&gt;"是这样的，他们最擅长做的事情是帮助把人们的工作变成程序，使人们变的轻松。软件正在吞噬整个世界，使世界改革换面。但是事实上还这还是个旧的世界。因为以这种方式的改变，并不意味着事情变好。我们还是有些根深蒂固的问题（例如：思想的问题，或是缺乏创造性。）。"&lt;/p&gt;
+&lt;p&gt;小printf焦急的说："怎么做才能让我感觉更好？"&lt;/p&gt;
+&lt;p&gt;那个难事深思了一会，最后提出让小printf帮助他，为需要帮助的人募捐。因为这个男士认为这种方式可以让他感觉更好。用一下午的时间，小printf把他的问题和他的经历都告诉了这个男士。&lt;/p&gt;
+&lt;p&gt;这个男士沉思了很长时间说道："在个游戏中，他们从解决复杂的问题而得到快乐和他们看重的名声和身份，这种快乐是片刻的。因为最终，如果你解决的问题没有实际价值（为了解决问题而解决问题），忽略了'以人为本'。那么你永远不会的到真正的满足！"（说的真好！）&lt;/p&gt;
+&lt;p&gt;他接着又说："随着你的成长，可能找到一家比之前更好的单位。可能是钱多，或者是因为这个工作更趣，这都很正常。只要你知道你自己想要的是什么！"&lt;/p&gt;
+&lt;p&gt;他最后补充道："最后，当你解决了人们真正面临的问题的时候，你会觉得真正的满足！有的时候根本不需要计算机。"&lt;/p&gt;
+&lt;p&gt;"你花费了大量的时间在你的系统上。最重要的是：你忘记当初为什么创建这个系统，反而花费时间在优化系统上面，那么它就变成了一场炫耀的游戏。这才是最可悲的。"&lt;/p&gt;
+&lt;p&gt;"开发者经常忘记最开始的初衷（真正有意义的事情）。如果你失去做这件事意义，而是为了解决系统的问题，才花时间在这上面。这就是问题的所在（如果你只是为了做好的系统，而不是解决实际问题，那你就应该自我反思了）"&lt;/p&gt;
+&lt;p&gt;小printf不断重复这句话，想要印在脑子里："只有在解决人们真正面对的问题的时候，才能获得真正的满足！"&lt;/p&gt;
+&lt;h2&gt;第十一章&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/printf-end.png" title="第十一章" /&gt;&lt;/p&gt;
+&lt;p&gt;小printf坐在我的前面，和他聊天让我开始认真思考：我为什么走上编程的道路。小printf之前遇到的每个人，仿佛我将来的某一天会成为他们中的一员（这真是个悲伤的情景）。我被这样的人（小printf之前遇到的那些程序员）鼓励成为像他们一样的程序员。&lt;/p&gt;
+&lt;p&gt;我也被拖进，小printf不喜欢的那个，成为'真正程序员'的游戏中。小printf曾说过：相比于'真正的程序员'，我更想成为能够为人们解决真正需要解决的问题的程序员（解决真正问题的程序员，而不是解决编程问题的程序员）。&lt;/p&gt;
+&lt;p&gt;今天我呆坐在这里，回顾我的整个编程生涯，我想弄清：成为解决真正问题的程序员，还是一切都这是完成工作。这两者是完全不同的。&lt;/p&gt;
+&lt;p&gt;不管怎么样，小printf认为他不需要成为一个真正的程序员。我现在，也是这样认为的！&lt;/p&gt;
+&lt;h2&gt;我的感受&lt;/h2&gt;
+&lt;p&gt;翻译完这篇文章，我觉得这篇文章写的非常好，他让我意识到：编程为了什么？到底什么才是真正的程序员。&lt;/p&gt;
+&lt;p&gt;自我反思了下。我一只在忙于追求技术栈的数量，一直是为了追求技术（或者说工作）而学习。&lt;/p&gt;
+&lt;p&gt;这就好像，我毫无目的收集树枝，猛然的一个点。我低头看手边一困困的树枝，却忘记了我为什么要去捡树枝。我学习python中的框架就是这种感觉，为了工作，我学习flask，bottle，tornado框架。但是，一切都是为了工作。导致我想从零写一个web app都毫无头绪，不知道如何下手。&lt;/p&gt;
+&lt;p&gt;对于以后的编程之路：我以后应该以目的为驱动力，不盲目的追求技术。经常问自己，我这么做有什么意义。&lt;/p&gt;
+&lt;h2&gt;参考&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://codingpy.com/article/the-little-printf-chapter01/"&gt;编程派：这个网站上只翻译到了第五章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Mon, 29 Feb 2016 18:01:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-02-29:the-real-programer.html</guid><category>程序员</category><category>翻译</category></item><item><title>用pelican在Github pages上搭建博客</title><link>http://blog.xueweihan.com/pelican-build-bolg.html</link><description>&lt;h1&gt;pelican&lt;/h1&gt;
+&lt;p&gt;Pelican Static Site Generator, Powered by Python：Pelican是python语言写的静态网站生成器。因为我一直打算用github pages做一个博客，现在已经学会用Hexo在github pages上做博客了。但是我一想：我一个pythoner，干嘛不用python写的静态网站生成器。我想应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;开始&lt;/h2&gt;
+&lt;p&gt;1.首先用virtualenv创建一个env&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;mkdir blog
+cd blog
+virtualenv env
+source env/bin/activate  #激活环境
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.使用pip安装pelican和markdown&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install pelican
+pip install markdown
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;3.创建pelican目录结构&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pelican-quickstart
+# 根据提示进行设置
+
+&amp;gt; Where do you want to create your new web site? [.]
+&amp;gt; What will be the title of this web site? 削微寒
+&amp;gt; Who will be the author of this web site? xueweihan
+&amp;gt; What will be the default language of this web site? [en] zh
+&amp;gt; Do you want to specify a URL prefix? e.g., http://example.com   (Y/n)
+&amp;gt; What is your URL prefix? (see above example; no trailing slash) xueweihan.com
+&amp;gt; Do you want to enable article pagination? (Y/n)
+&amp;gt; How many articles per page do you want? [10]
+&amp;gt; What is your time zone? [Europe/Paris] Asia/Shanghai
+&amp;gt; Do you want to generate a Fabfile/Makefile to automate generation and publishing? (Y/n)
+&amp;gt; Do you want an auto-reload &amp;amp; simpleHTTP script to assist with theme and site development? (Y/n)
+&amp;gt; Do you want to upload your website using FTP? (y/N) n
+&amp;gt; Do you want to upload your website using SSH? (y/N) n
+&amp;gt; Do you want to upload your website using Dropbox? (y/N) n
+&amp;gt; Do you want to upload your website using S3? (y/N) n
+&amp;gt; Do you want to upload your website using Rackspace Cloud Files? (y/N) n
+&amp;gt; Do you want to upload your website using GitHub Pages? (y/N)
+Done. Your new project is available at /Users/xueweihan/Documents/blog
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;文件结构如下：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;blog/
+├── content              # 写的文章放这里
+├── output               # 生成的输出文件（发布的内容）
+├── develop_server.sh    
+├── Makefile             # 方便管理博客的Makefile
+├── pelicanconf.py       # 主配置文件
+└── publishconf.py
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;我们下面只用到我解释的这几个目录和文件，大致有个印象即可&lt;/p&gt;
+&lt;p&gt;4.编写文章测试下效果&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;Date&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;2016&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;02&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;28&lt;/span&gt;
+&lt;span class="n"&gt;Title&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="err"&gt;测试&lt;/span&gt;
+&lt;span class="n"&gt;Tags&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="err"&gt;测试&lt;/span&gt;
+&lt;span class="n"&gt;Slug&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;test&lt;/span&gt;
+
+&lt;span class="err"&gt;#&lt;/span&gt; &lt;span class="n"&gt;pelican&lt;/span&gt;
+&lt;span class="n"&gt;Pelican&lt;/span&gt; &lt;span class="n"&gt;Static&lt;/span&gt; &lt;span class="n"&gt;Site&lt;/span&gt; &lt;span class="n"&gt;Generator&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Powered&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Python&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;Pelican&lt;/span&gt;&lt;span class="err"&gt;是&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt;&lt;span class="err"&gt;语言写的静态网站生成器。因为我一直打算用&lt;/span&gt;&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;pages&lt;/span&gt;&lt;span class="err"&gt;做一个博客，现在已经学会用&lt;/span&gt;&lt;span class="n"&gt;Hexo&lt;/span&gt;&lt;span class="err"&gt;在&lt;/span&gt;&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;pages&lt;/span&gt;&lt;span class="err"&gt;上做博客了。但是我还是一想：我一个&lt;/span&gt;&lt;span class="n"&gt;pythoner&lt;/span&gt;&lt;span class="err"&gt;，干嘛不用&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt;&lt;span class="err"&gt;写的静态网站生成器。应该是网上教程太少，那我今天就来搞一搞。顺便记录下来，整理出一个教程，希望一切顺利！&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;在content目录下创建一个名为：test.md的markdown文件，把上面的那些内容放进去，用来测试效果。&lt;/p&gt;
+&lt;p&gt;5.本地查看效果&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# 在blog目录下执行
+pelican content # 根据content中的内容，生成静态网站到output目下
+
+# 在output目录下执行
+python -m pelican.server
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;以上两个命令执行完，没有报错的话就用浏览器打开：127.0.0.1:8000，效果如下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-02-28%20%E4%B8%8B%E5%8D%885.18.31.png" title="本地效果" /&gt;&lt;/p&gt;
+&lt;p&gt;输入：&lt;code&gt;ctrl + c&lt;/code&gt; 停止服务&lt;/p&gt;
+&lt;p&gt;5.上传到github pages 现在就差最后一步，上传到github pages上面。 一步步的来：&lt;/p&gt;
+&lt;p&gt;首先在github上创建一个项目，&lt;code&gt;Repository name&lt;/code&gt;填写：你的github用户名.github.io 如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-02-28%20%E4%B8%8B%E5%8D%885.25.05.png" title="github 创建仓库" /&gt;&lt;/p&gt;
+&lt;p&gt;然后在&lt;code&gt;output&lt;/code&gt;目录依次输入：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;git init
+git add .
+git commit -m &amp;quot;pelican static blog test&amp;quot;
+git remote add origin git@github.com:你的github用户名/你的github用户名.github.io.git
+# 例如我的就是：git@github.com:521xueweihan/521xueweihan.github.io.git
+git push -u origin master
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;最后访问：&lt;a href="http://你的github用户名.github.io/"&gt;http://你的github用户名.github.io/&lt;/a&gt; 例如我的就是：&lt;a href="http://521xueweihan.github.io/"&gt;http://521xueweihan.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;页面如下图： &lt;img alt="" src="http://7xqirw.com1.z0.glb.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-02-28%20%E4%B8%8B%E5%8D%885.42.10.png" title="github pages 上效果" /&gt;&lt;/p&gt;
+&lt;h2&gt;简化发布流程&lt;/h2&gt;
+&lt;p&gt;还记得Makefile文件吗？我们通过修改这个文件，实现1条指令发布博客到github pages上。&lt;/p&gt;
+&lt;p&gt;把&lt;code&gt;blog&lt;/code&gt;目录下的Makefile文件中的内容替换成下面的内容(原Makefile文件的内容都不要)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;PY?&lt;span class="o"&gt;=&lt;/span&gt;python
+PELICAN?&lt;span class="o"&gt;=&lt;/span&gt;pelican
+&lt;span class="nv"&gt;PELICANOPTS&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;
+
+&lt;span class="nv"&gt;BASEDIR&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;CURDIR&lt;span class="k"&gt;)&lt;/span&gt;
+&lt;span class="nv"&gt;INPUTDIR&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;BASEDIR&lt;span class="k"&gt;)&lt;/span&gt;/content
+&lt;span class="nv"&gt;OUTPUTDIR&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;BASEDIR&lt;span class="k"&gt;)&lt;/span&gt;/output
+&lt;span class="nv"&gt;CONFFILE&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;BASEDIR&lt;span class="k"&gt;)&lt;/span&gt;/pelicanconf.py
+&lt;span class="nv"&gt;PUBLISHCONF&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;BASEDIR&lt;span class="k"&gt;)&lt;/span&gt;/publishconf.py
+
+DEBUG ?&lt;span class="o"&gt;=&lt;/span&gt; 0
+ifeq &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;DEBUG&lt;span class="k"&gt;)&lt;/span&gt;, 1&lt;span class="o"&gt;)&lt;/span&gt;
+    PELICANOPTS +&lt;span class="o"&gt;=&lt;/span&gt; -D
+endif
+
+RELATIVE ?&lt;span class="o"&gt;=&lt;/span&gt; 0
+ifeq &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt;RELATIVE&lt;span class="k"&gt;)&lt;/span&gt;, 1&lt;span class="o"&gt;)&lt;/span&gt;
+    PELICANOPTS +&lt;span class="o"&gt;=&lt;/span&gt; --relative-urls
+endif
+
+html:
+    &lt;span class="k"&gt;$(&lt;/span&gt;PELICAN&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;INPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; -o &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; -s &lt;span class="k"&gt;$(&lt;/span&gt;CONFFILE&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;PELICANOPTS&lt;span class="k"&gt;)&lt;/span&gt;
+
+clean:
+    &lt;span class="o"&gt;[&lt;/span&gt; ! -d &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="o"&gt;||&lt;/span&gt; rm -rf &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt;
+
+regenerate:
+    &lt;span class="k"&gt;$(&lt;/span&gt;PELICAN&lt;span class="k"&gt;)&lt;/span&gt; -r &lt;span class="k"&gt;$(&lt;/span&gt;INPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; -o &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; -s &lt;span class="k"&gt;$(&lt;/span&gt;CONFFILE&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;PELICANOPTS&lt;span class="k"&gt;)&lt;/span&gt;
+
+serve:
+ifdef PORT
+    &lt;span class="nb"&gt;cd&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;PY&lt;span class="k"&gt;)&lt;/span&gt; -m pelican.server &lt;span class="k"&gt;$(&lt;/span&gt;PORT&lt;span class="k"&gt;)&lt;/span&gt;
+&lt;span class="k"&gt;else&lt;/span&gt;
+    &lt;span class="nb"&gt;cd&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;PY&lt;span class="k"&gt;)&lt;/span&gt; -m pelican.server
+endif
+
+publish:
+    &lt;span class="k"&gt;$(&lt;/span&gt;PELICAN&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;INPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; -o &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; -s &lt;span class="k"&gt;$(&lt;/span&gt;CONFFILE&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;PELICANOPTS&lt;span class="k"&gt;)&lt;/span&gt;
+
+github: publish
+    &lt;span class="nb"&gt;cd&lt;/span&gt; &lt;span class="k"&gt;$(&lt;/span&gt;OUTPUTDIR&lt;span class="k"&gt;)&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt; git add . &lt;span class="p"&gt;;&lt;/span&gt;  git commit -m &lt;span class="s1"&gt;&amp;#39;更新博客&amp;#39;&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt; git push origin master
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;更新博客流程&lt;/strong&gt;
+1. 把写好的markdown格式的文章放到content中，然后在&lt;code&gt;blog&lt;/code&gt;目录下
+2. 本地查看效果的话：&lt;code&gt;make html&lt;/code&gt; 然后&lt;code&gt;make serve&lt;/code&gt; 最后访问：127.0.0.1:8000
+3. 发布到github：&lt;code&gt;make github&lt;/code&gt; 完成&lt;/p&gt;
+&lt;h2&gt;定制属于自己的blog&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;下面的内容算是高级篇了，需要把上面的步骤都完成。想要进一步完美自己的博客的小伙伴&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.独立域名
+首先要购买域名，我的实在阿里云上买的，买完之后就需要修改你的域名指向：访问xueweihan.com域名，跳转到你的.github.io。根据你购买域名时候的提示，就可以设置完成了。之后在output目录下，创建CNAME文件。内容就是你购买的域名。因为github pages只允许CNAME中的域名映射。&lt;/p&gt;
+&lt;p&gt;2.定制样式结构
+一步步的来，首先要找到你喜欢的主题&lt;a href="https://github.com/getpelican/pelican-themes"&gt;pelican主题&lt;/a&gt;，下载的时候我推荐&lt;code&gt;Download ZIP&lt;/code&gt;会快很多。下载好你的主题，我们就需要在blog目录下，找到&lt;code&gt;pelicanconf.py&lt;/code&gt;文件，它是在生成静态网站时候的配置文件，定制几乎所有的东西都需要通过这个。增添内容如下：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;THEME = &amp;#39;你的主题所在目录&amp;#39;
+# 例如：THEME = &amp;#39;/Users/root/Documents/blog/tuxlite_tbs&amp;#39;
+
+
+GITHUB_URL = &amp;#39;https://github.com/你的github用户名&amp;#39;
+# 效果是右上角有个fork me on Github，点击进入你的Github主页
+
+
+DEFAULT_DATE_FORMAT = &amp;#39;%Y-%m-%d&amp;#39;
+# 时间格式
+
+
+SOCIAL = ((&amp;#39;github&amp;#39;, &amp;#39;https://github.com/521xueweihan&amp;#39;),
+          (&amp;#39;博客园&amp;#39;, &amp;#39;http://www.cnblogs.com/xueweihan/&amp;#39;))
+# 几乎所有的博客主题都有一个地方展示你的社交账号，这些账号就写在这里，上面是我的
+
+
+DISQUS_SITENAME = &amp;#39;shortname&amp;#39;
+# 评论功能，需要在Disqus上申请一个站点，替换shortname
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;如果有python基础的，可以直接修改主题目录下的&lt;code&gt;template&lt;/code&gt;中的模版。已达到你想要的目录结构和内容的呈现。&lt;/p&gt;
+&lt;p&gt;3.简单的SEO
+在output文件中创建rebots.txt，这个文件是一个协议文件，没有不会影响什么。但是有的话，有利于搜索引擎的收录。内容如下，允许所有爬虫，同时不允许爬取theme目录下的内容，和所有的图片。：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;User-agent: *
+Disallow: /theme/
+Disallow: /.gif$
+Disallow: /.png$
+Disallow: /.jpg$
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;大多数主题多是外国人写的，所以他们都支持‘谷歌分析’&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GOOGLE_ANALYTICS = &amp;#39;跟踪ID&amp;#39;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;而百度的分析就需要手动的在主题目录下的template目录下的base.html中增添百度的分析代码。&lt;/p&gt;
+&lt;p&gt;4.sitemap是对于爬虫友好的一个文件，它告诉爬虫，网站的更新频率和优先级等。&lt;a href="http://baike.baidu.com/view/1072062.htm"&gt;详情&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;增添插件：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;git clone git://github.com/getpelican/pelican-plugins.git
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;修改pelicanconf.py文件：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;PLUGIN_PATH = u&amp;quot;pelican-plugins&amp;quot;
+PLUGINS = [&amp;quot;sitemap&amp;quot;]
+SITEMAP = {
+    &amp;quot;format&amp;quot;: &amp;quot;xml&amp;quot;,
+    &amp;quot;priorities&amp;quot;: {
+        &amp;quot;articles&amp;quot;: 0.7,
+        &amp;quot;indexes&amp;quot;: 0.5,
+        &amp;quot;pages&amp;quot;: 0.3,
+    },
+    &amp;quot;changefreqs&amp;quot;: {
+        &amp;quot;articles&amp;quot;: &amp;quot;monthly&amp;quot;,
+        &amp;quot;indexes&amp;quot;: &amp;quot;daily&amp;quot;,
+        &amp;quot;pages&amp;quot;: &amp;quot;monthly&amp;quot;,
+    }
+}
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;5.favicon.ico
+放在output的根目录下。&lt;/p&gt;
+&lt;p&gt;6.订阅
+因为pelican的库包含了feedgenerator。feedgenerator是用来生成Atom feeds（是包含你博客数据的xml的文件）用于订阅。所以你只需要在&lt;code&gt;pelicanconf.py&lt;/code&gt;加入：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;FEED_ALL_RSS =  &amp;#39;feeds/all.rss.xml&amp;#39;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;博客就会自动生成订阅功能了。&lt;/p&gt;
+&lt;p&gt;7.关于我
+这个就像相当于一个自我介绍的页面，所以就需要在&lt;code&gt;content&lt;/code&gt;目录下创建一个&lt;code&gt;pages&lt;/code&gt;目录，然后把你要展示的内容放到&lt;code&gt;pages&lt;/code&gt;目录下就可以了。&lt;/p&gt;
+&lt;h2&gt;最终效果&lt;/h2&gt;
+&lt;p&gt;我的博客：&lt;a href="http://xueweihan.com"&gt;xueweihan.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;问题&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;当删除了一篇博文，但是以我上面所说的方式发布的话。那片文章其实还是存在于github pages上的。只不过没有在模版中生成链接罢了。这种类似的情况会导致：换主题css丢失等问题。当然如果你清空&lt;code&gt;output&lt;/code&gt;目录，然后重新生成网站的话，就没问题。但是清空的话，会导致一切不因该被删的文件也都被删除了，例如：.git和CNAME等文件。所以我就写了一个&lt;code&gt;del.sh&lt;/code&gt;，用于删除pelican生成的文件，其他哪些通用文件都不删除。这样暂时可以解决问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;本来想要在两台电脑上都可以发布文章，修改完makefile我发现不是刚性需求，同时实现效果不好。最后的解决方案是，把文章写在另外的一个github的项目中，分布式编辑这个项目。最后写文章之前，&lt;code&gt;git pull&lt;/code&gt;获取最新的文章，这样就可以同步最新的内容进行修改发布了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我遇到的另外一个问题，就是pelican－theme上面大多都是国外的主题，有的主题中的jquery.js是用的google的cdn。在国内访问的时候会造成找不到jquery.js对体验和响应时间造成很大的影响。所以，部署完站点后，最好打开浏览器的开发者模式，查看一下各个文件的请求耗时。如果有我上述情况，那么你可以尝试把那个请求耗时过长的静态文件，下载好，放到该主题目录下&lt;code&gt;static&lt;/code&gt;中对应的目录内。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个其实不是问题，算是一个建议。文章的格式中，加入&lt;code&gt;Slug: test&lt;/code&gt;。这个字段的是：用于文章生成url的。不添加这个字段话，默认是拼音的url。但是有时侯拼音是错误的，而且对于搜索引擎很不友好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;参考&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.lizherui.com/pages/2013/08/17/build_blog.html"&gt;lizherui的博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://docs.getpelican.com/en/3.5.0/quickstart.html"&gt;pelican官方文档&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pelican-zh.readthedocs.org/en/latest/zh-cn/"&gt;pelican中文文档（不全）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jianshu.com/p/d80a5cefc128"&gt;Pelican搭建静态博客&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Mon, 29 Feb 2016 18:00:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-02-29:pelican-build-bolg.html</guid><category>pelican</category><category>Github pages</category><category>博客</category></item><item><title>HelloWorld</title><link>http://blog.xueweihan.com/helloworld.html</link><description>&lt;h1&gt;博客的第一天&lt;/h1&gt;
+&lt;p&gt;我原来的博客写在&lt;a href="http://www.cnblogs.com/xueweihan/" title="我原来的博客"&gt;博客园&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今天终于搞定了我的xueweihan.com的博客网站：采用的是pelican和tuxlite主题，托关于github pages，详细教程请&lt;a href="http://xueweihan.com/yong-pelicanzai-github-pagesshang-da-jian-bo-ke.html" title="pelican 搭建博客教程"&gt;参考&lt;/a&gt;。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;为什么这么搞&lt;/h2&gt;
+&lt;p&gt;首先，因为我是个后端工程师，所以觉得命令行的东西比较方便，同时希望：写文章用markdown，发布文章通过命令行，简单方便，不需要维护，独立域名。所以静态网站生成器和github pages这个解决方案可以完美解决我的需求。所以我就这么搞了。&lt;/p&gt;
+&lt;p&gt;我使用的python写的静态网站生成器，因为我是pythoner这样的好处就是我看的懂源代码和模版语言。这样我就可以根据我的喜好去修改布局和样式。同时'人生苦短，我用python～'&lt;/p&gt;
+&lt;h2&gt;打算&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;xueweihan.com&lt;/code&gt;域名，五年后才到期。所以我打算每个星期一篇高质量的文章。我想我会坚持下去的，写博客是一个很好的习惯，有助于提高很多方面的能力。而且能记录我的成长，在这个社交网络复杂，功能繁多的时代。像这样可以安静的码字，用文字单纯的纪录一些东西，可以算得上是一片&lt;strong&gt;净土&lt;/strong&gt;了。&lt;/p&gt;
+&lt;h2&gt;内容&lt;/h2&gt;
+&lt;p&gt;我的博客主要内容是技术的文章，还有就是我的读书笔记，偶尔的人生感悟。&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;既然留不住青春，那我就纪录青春！随然我15年大学毕业的，但是我现在依旧青春啊。所以我现在是纪录青春，同时书写我的青春！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">xueweihan</dc:creator><pubDate>Sun, 28 Feb 2016 00:00:00 +0800</pubDate><guid isPermaLink="false">tag:blog.xueweihan.com,2016-02-28:helloworld.html</guid><category>博客</category></item></channel></rss>
